@@ -1,0 +1,420 @@
+﻿#EXTM3U
+
+
+#EXTINF:-1 tvg-id="ar_america-2-capital" tvg-name="América TV" group-title="Argentina",América TV
+http://megatv.live:80/live/MegaTest/MegaTV/47.ts
+#EXTINF:0 tvg-name="TV Pública HD" group-title="Argentina",TV Pública HD
+http://megatv.live:80/live/MegaTest/MegaTV/37.ts
+#EXTINF:0 tvg-name="El Nueve HD" group-title="Argentina",El Nueve HD
+http://megatv.live:80/live/MegaTest/MegaTV/38.ts
+#EXTINF:0 tvg-name="Telefe" tvg-id="ar_telefe" group-title="Argentina",Telefe
+http://megatv.live:80/live/MegaTest/MegaTV/49.ts
+#EXTINF:0 tvg-name="TELEFE Internacional" group-title="Argentina",TELEFE Internacional
+http://megatv.live:80/live/MegaTest/MegaTV/50.ts
+#EXTINF:0 tvg-name="El Trece" group-title="Argentina",El Trece
+http://megatv.live:80/live/MegaTest/MegaTV/31.ts
+#EXTINF:0 tvg-name="El Trece HD" group-title="Argentina",El Trece HD
+http://megatv.live:80/live/MegaTest/MegaTV/48.ts
+#EXTINF:0 tvg-name="360 TV" group-title="Argentina",360 TV
+http://megatv.live:80/live/MegaTest/MegaTV/41.ts
+#EXTINF:0 tvg-name="Ciudad Magazine" group-title="Argentina",Ciudad Magazine
+http://megatv.live:80/live/MegaTest/MegaTV/62.ts
+#EXTINF:0 tvg-name="Metro" group-title="Argentina",Metro
+http://megatv.live:80/live/MegaTest/MegaTV/55.ts
+
+
+
+#EXTINF:0 tvg-name="AMC" group-title="Películas/Series",AMC
+http://megatv.live:80/live/MegaTest/MegaTV/323.ts
+#EXTINF:0 tvg-name="AMC HD" group-title="Películas/Series",AMC HD
+http://megatv.live:80/live/MegaTest/MegaTV/2.ts
+#EXTINF:0 tvg-name="AXN" group-title="Películas/Series",AXN
+http://megatv.live:80/live/MegaTest/MegaTV/317.ts
+#EXTINF:0 tvg-name="AXN HD" group-title="Películas/Series",AXN HD
+http://megatv.live:80/live/MegaTest/MegaTV/318.ts
+#EXTINF:0 tvg-name="Cinecanal" group-title="Películas/Series",Cinecanal
+http://megatv.live:80/live/MegaTest/MegaTV/243.ts
+#EXTINF:0 tvg-name="Cinecanal Latinoamérica" group-title="Películas/Series",Cinecanal Latinoamérica
+http://megatv.live:80/live/MegaTest/MegaTV/242.ts
+#EXTINF:0 tvg-name="Cinecanal HD" group-title="Películas/Series",Cinecanal HD
+http://megatv.live:80/live/MegaTest/MegaTV/244.ts
+#EXTINF:0 tvg-name="Cinemax" group-title="Películas/Series",Cinemax
+http://megatv.live:80/live/MegaTest/MegaTV/255.ts
+#EXTINF:0 tvg-name="Cinemax Oeste" group-title="Películas/Series",Cinemax Oeste
+http://megatv.live:80/live/MegaTest/MegaTV/254.ts
+#EXTINF:0 tvg-name="Fox Latino" group-title="Películas/Series",Fox latino
+http://megatv.live:80/live/MegaTest/MegaTV/320.ts
+#EXTINF:0 tvg-name="Fox HD" group-title="Películas/Series",Fox HD
+http://megatv.live:80/live/MegaTest/MegaTV/321.ts
+#EXTINF:0 tvg-name="Fox Action" group-title="Películas/Series",Fox Action
+http://megatv.live:80/live/MegaTest/MegaTV/230.ts
+#EXTINF:0 tvg-name="Fox Action HD" group-title="Películas/Series",Fox Action HD
+http://megatv.live:80/live/MegaTest/MegaTV/231.ts
+#EXTINF:0 tvg-name="Fox Cinema" group-title="Películas/Series",Fox Cinema
+http://megatv.live:80/live/MegaTest/MegaTV/228.ts
+#EXTINF:0 tvg-name="Fox Cinema HD" group-title="Películas/Series",Fox Cinema HD
+http://megatv.live:80/live/MegaTest/MegaTV/229.ts
+#EXTINF:0 tvg-name="Fox Classics" group-title="Películas/Series",Fox Classics
+http://megatv.live:80/live/MegaTest/MegaTV/234.ts
+#EXTINF:0 tvg-name="Fox Classics HD" group-title="Películas/Series",Fox Classics HD
+http://megatv.live:80/live/MegaTest/MegaTV/235.ts
+#EXTINF:0 tvg-name="Fox Comedy" group-title="Películas/Series",Fox Comedy
+http://megatv.live:80/live/MegaTest/MegaTV/226.ts
+#EXTINF:0 tvg-name="Fox Comedy HD" group-title="Películas/Series",Fox Comedy HD
+http://megatv.live:80/live/MegaTest/MegaTV/227.ts
+#EXTINF:0 tvg-name="Fox Family" group-title="Películas/Series",Fox Family
+http://megatv.live:80/live/MegaTest/MegaTV/237.ts
+#EXTINF:0 tvg-name="Fox Family HD" group-title="Películas/Series",Fox Family HD
+http://megatv.live:80/live/MegaTest/MegaTV/238.ts
+#EXTINF:0 tvg-name="Fox Family Oeste" group-title="Películas/Series",Fox Family Oeste
+http://megatv.live:80/live/MegaTest/MegaTV/236.ts
+#EXTINF:0 tvg-name="Fox Life" group-title="Películas/Series",Fox Life
+http://megatv.live:80/live/MegaTest/MegaTV/319.ts
+#EXTINF:0 tvg-name="Fox Movies" group-title="Películas/Series",Fox Movies
+http://megatv.live:80/live/MegaTest/MegaTV/232.ts
+#EXTINF:0 tvg-name="Fox Movies HD" group-title="Películas/Series",Fox Movies HD
+http://megatv.live:80/live/MegaTest/MegaTV/233.ts
+#EXTINF:0 tvg-name="Fox Series" group-title="Películas/Series",Fox Series
+http://megatv.live:80/live/MegaTest/MegaTV/240.ts
+#EXTINF:0 tvg-name="Fox Series HD" group-title="Películas/Series",Fox Series HD
+http://megatv.live:80/live/MegaTest/MegaTV/241.ts
+#EXTINF:0 tvg-name="Fox Series Oeste" group-title="Películas/Series",Fox Series Oeste
+http://megatv.live:80/live/MegaTest/MegaTV/239.ts
+#EXTINF:0 tvg-name="FX" group-title="Películas/Series",FX
+http://megatv.live:80/live/MegaTest/MegaTV/316.ts
+#EXTINF:0 tvg-name="FX HD" group-title="Películas/Series",FX HD
+http://megatv.live:80/live/MegaTest/MegaTV/400.ts
+#EXTINF:0 tvg-name="FX Movies" group-title="Películas/Series",FX Movies
+http://megatv.live:80/live/MegaTest/MegaTV/248.ts
+#EXTINF:0 tvg-name="FX Movies HD" group-title="Películas/Series",FX Movies HD
+http://megatv.live:80/live/MegaTest/MegaTV/249.ts
+#EXTINF:0 tvg-name="FX Movies Oeste" group-title="Películas/Series",FX Movies Oeste
+http://megatv.live:80/live/MegaTest/MegaTV/247.ts
+#EXTINF:0 tvg-name="Golden" group-title="Películas/Series",Golden
+http://megatv.live:80/live/MegaTest/MegaTV/271.ts
+#EXTINF:0 tvg-name="Golden HD" group-title="Películas/Series",Golden HD
+http://megatv.live:80/live/MegaTest/MegaTV/413.ts
+#EXTINF:0 tvg-name="Golden Edge" group-title="Películas/Series",Golden Edge
+http://megatv.live:80/live/MegaTest/MegaTV/270.ts
+#EXTINF:0 tvg-name="HBO" group-title="Películas/Series",HBO
+http://megatv.live:80/live/MegaTest/MegaTV/268.ts
+#EXTINF:0 tvg-name="HBO Oeste" group-title="Películas/Series",HBO Oeste
+http://megatv.live:80/live/MegaTest/MegaTV/267.ts
+#EXTINF:0 tvg-name="HBO HD" group-title="Películas/Series",HBO HD
+http://megatv.live:80/live/MegaTest/MegaTV/269.ts
+#EXTINF:0 tvg-name="HBO Family" group-title="Películas/Series",HBO Family
+http://megatv.live:80/live/MegaTest/MegaTV/264.ts
+#EXTINF:0 tvg-name="HBO Family HD" group-title="Películas/Series",HBO Family HD
+http://megatv.live:80/live/MegaTest/MegaTV/64.ts
+#EXTINF:0 tvg-name="HBO Plus Panamericano" group-title="Películas/Series",HBO Plus Panamericano
+http://megatv.live:80/live/MegaTest/MegaTV/262.ts
+#EXTINF:0 tvg-name="HBO Plus Este" group-title="Películas/Series",HBO Plus Este
+http://megatv.live:80/live/MegaTest/MegaTV/261.ts
+#EXTINF:0 tvg-name="HBO Plus Panregional" group-title="Películas/Series",HBO Plus Panregional
+http://megatv.live:80/live/MegaTest/MegaTV/260.ts
+#EXTINF:0 tvg-name="HBO Plus Signature" group-title="Películas/Series",HBO Signature
+http://megatv.live:80/live/MegaTest/MegaTV/263.ts
+#EXTINF:0 tvg-name="HBO Plus Signature HD" group-title="Películas/Series",HBO Signature HD
+http://megatv.live:80/live/MegaTest/MegaTV/65.ts
+#EXTINF:0 tvg-name="HBO 2" group-title="Películas/Series",HBO 2
+http://megatv.live:80/live/MegaTest/MegaTV/266.ts
+#EXTINF:0 tvg-name="HBO 2 HD" group-title="Películas/Series",HBO 2 HD
+http://megatv.live:80/live/MegaTest/MegaTV/66.ts
+#EXTINF:0 tvg-name="HBO 2 Latinoamerica" group-title="Películas/Series",HBO 2 Latinoamerica
+http://megatv.live:80/live/MegaTest/MegaTV/265.ts
+#EXTINF:0 tvg-name="I-Sat" group-title="Películas/Series",I-Sat
+http://megatv.live:80/live/MegaTest/MegaTV/312.ts
+#EXTINF:0 tvg-name="Max" group-title="Películas/Series",Max
+http://megatv.live:80/live/MegaTest/MegaTV/259.ts
+#EXTINF:0 tvg-name="Max HD" group-title="Películas/Series",Max HD
+http://megatv.live:80/live/MegaTest/MegaTV/52.ts
+#EXTINF:0 tvg-name="Max 2 HD" group-title="Películas/Series",Max 2 HD
+http://megatv.live:80/live/MegaTest/MegaTV/398.ts
+#EXTINF:0 tvg-name="Max Prime" group-title="Películas/Series",Max Prime
+http://megatv.live:80/live/MegaTest/MegaTV/258.ts
+#EXTINF:0 tvg-name="Max Prime Panamericano" group-title="Películas/Series",Max Prime Panamericano
+http://megatv.live:80/live/MegaTest/MegaTV/256.ts
+#EXTINF:0 tvg-name="Max Prime Oeste" group-title="Películas/Series",Max Prime Oeste
+http://megatv.live:80/live/MegaTest/MegaTV/257.ts
+#EXTINF:0 tvg-name="Max Prime Oeste HD" group-title="Películas/Series",Max Prime Oeste HD
+http://megatv.live:80/live/MegaTest/MegaTV/51.ts
+#EXTINF:0 tvg-name="Max UP HD" group-title="Películas/Series",Max UP HD
+http://megatv.live:80/live/MegaTest/MegaTV/408.ts
+#EXTINF:0 tvg-name="Paramount Channel" group-title="Películas/Series",Paramount Channel
+http://megatv.live:80/live/MegaTest/MegaTV/272.ts
+#EXTINF:0 tvg-name="Paramount Channel HD" group-title="Películas/Series",Paramount Channel HD
+http://megatv.live:80/live/MegaTest/MegaTV/273.ts
+#EXTINF:0 tvg-name="SONY" group-title="Películas/Series",SONY
+http://megatv.live:80/live/MegaTest/MegaTV/324.ts
+#EXTINF:0 tvg-name="SONY HD" group-title="Películas/Series",SONY HD
+http://megatv.live:80/live/MegaTest/MegaTV/325.ts
+#EXTINF:0 tvg-name="SPACE" group-title="Películas/Series",SPACE
+http://megatv.live:80/live/MegaTest/MegaTV/252.ts
+#EXTINF:0 tvg-name="SPACE HD" group-title="Películas/Series",SPACE HD
+http://megatv.live:80/live/MegaTest/MegaTV/253.ts
+#EXTINF:0 tvg-name="Studio Universal" group-title="Películas/Series",Studio Universal
+http://megatv.live:80/live/MegaTest/MegaTV/250.ts
+#EXTINF:0 tvg-name="Studio Universal HD" group-title="Películas/Series",Studio Universal HD
+http://megatv.live:80/live/MegaTest/MegaTV/391.ts
+#EXTINF:0 tvg-name="Sun Channel" group-title="Películas/Series",Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
+#EXTINF:0 tvg-name="SyFy" group-title="Películas/Series",SyFy
+http://megatv.live:80/live/MegaTest/MegaTV/326.ts
+#EXTINF:0 tvg-name="SyFy HD" group-title="Películas/Series",SyFy HD
+http://megatv.live:80/live/MegaTest/MegaTV/394.ts
+#EXTINF:0 tvg-name="TBS" group-title="Películas/Series",TBS
+http://megatv.live:80/live/MegaTest/MegaTV/353.ts
+#EXTINF:0 tvg-name="TBS HD" group-title="Películas/Series",TBS HD
+http://megatv.live:80/live/MegaTest/MegaTV/354.ts
+#EXTINF:0 tvg-name="TCM" group-title="Películas/Series",TCM
+http://megatv.live:80/live/MegaTest/MegaTV/307.ts
+#EXTINF:0 tvg-name="TNT" group-title="Películas/Series",TNT
+http://megatv.live:80/live/MegaTest/MegaTV/351.ts
+#EXTINF:0 tvg-name="TNT HD" group-title="Películas/Series",TNT HD
+http://megatv.live:80/live/MegaTest/MegaTV/352.ts
+#EXTINF:0 tvg-name="TNT Series" group-title="Películas/Series",TNT Series
+http://megatv.live:80/live/MegaTest/MegaTV/349.ts
+#EXTINF:0 tvg-name="TNT Series HD" group-title="Películas/Series",TNT Series HD
+http://megatv.live:80/live/MegaTest/MegaTV/350.ts
+#EXTINF:0 tvg-name="Universal" group-title="Películas/Series",Universal
+http://megatv.live:80/live/MegaTest/MegaTV/251.ts
+#EXTINF:0 tvg-name="Universal HD" group-title="Películas/Series",Universal HD
+http://megatv.live:80/live/MegaTest/MegaTV/392.ts
+#EXTINF:0 tvg-name="Warner" group-title="Películas/Series",Warner
+http://megatv.live:80/live/MegaTest/MegaTV/295.ts
+#EXTINF:0 tvg-name="Warner HD" group-title="Películas/Series",Warner HD
+http://megatv.live:80/live/MegaTest/MegaTV/296.ts
+
+
+
+
+
+#EXTINF:0 tvg-name="A&E" tvg-logo="https://imagenes.gatotv.com/logos/canales/a_and_e_panregional-mediano.png" group-title="Entretenimiento",A&E 
+http://megatv.live:80/live/MegaTest/MegaTV/315.ts 
+#EXTINF:0 tvg-name="A&E HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_hd.png" group-title="Entretenimiento",A&E HD 
+http://megatv.live:80/live/MegaTest/MegaTV/1.ts
+#EXTINF:0 tvg-name="Comedy Central" group-title="Entretenimiento",Comedy Central
+http://megatv.live:80/live/MegaTest/MegaTV/355.ts
+#EXTINF:0 tvg-name="Comedy Central HD" group-title="Entretenimiento",Comedy Central HD
+http://megatv.live:80/live/MegaTest/MegaTV/356.ts
+#EXTINF:0 tvg-name="ID Investigation Discovery" group-title="Entretenimiento",ID Investigation Discovery
+http://megatv.live:80/live/MegaTest/MegaTV/333.ts
+#EXTINF:0 tvg-name="ID Investigation Discovery HD" group-title="Entretenimiento",ID Investigation Discovery HD
+http://megatv.live:80/live/MegaTest/MegaTV/334.ts
+#EXTINF:0 tvg-name="NBC Universo HD" group-title="Entretenimiento",NBC Universo HD
+http://megatv.live:80/live/MegaTest/MegaTV/382.ts
+#EXTINF:0 tvg-name="TRU TV" group-title="Entretenimiento",TRU TV
+http://megatv.live:80/live/MegaTest/MegaTV/313.ts
+#EXTINF:0 tvg-name="TRU TV HD" group-title="Entretenimiento",TRU TV HD
+http://megatv.live:80/live/MegaTest/MegaTV/314.ts
+
+
+
+
+
+#EXTINF:0 tvg-name="Movistar F1 Op.1" group-title="Deportes",Movistar F1 Op.1
+http://megatv.live:80/live/MegaTest/MegaTV/96.ts
+#EXTINF:0 tvg-name="Movistar F1 Op.2" group-title="Deportes",Movistar F1 Op.2
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+#EXTINF:0 tvg-name="Movistar F1 Op.3" group-title="Deportes",Movistar F1 Op.3
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:0 tvg-name="Movistar F1 HD Op.1" group-title="Deportes",Movistar F1 HD Op.1
+http://163.172.202.69:4022/formula1hd
+#EXTINF:0 tvg-name="Movistar F1 HD Op.2" group-title="Deportes",Movistar F1 HD Op.2
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+
+#EXTINF:0 tvg-name="Bein Ñ HD" group-title="Deportes",Bein Ñ HD
+http://megatv.live:80/live/MegaTest/MegaTV/380.ts
+#EXTINF:0 tvg-name="Bein Sports USA HD" group-title="Deportes",Bein Sports USA HD
+http://megatv.live:80/live/MegaTest/MegaTV/381.ts
+#EXTINF:0 tvg-name="ESPN+ HD" group-title="Deportes",ESPN+ HD
+http://megatv.live:80/live/MegaTest/MegaTV/157.ts
+#EXTINF:0 tvg-name="ESPN Norte" group-title="Deportes",ESPN Norte
+http://megatv.live:80/live/MegaTest/MegaTV/155.ts
+#EXTINF:0 tvg-name="ESPN HD Norte" group-title="Deportes",ESPN HD Norte
+http://megatv.live:80/live/MegaTest/MegaTV/156.ts
+#EXTINF:0 tvg-name="ESPN Sur" group-title="Deportes",ESPN Sur
+http://megatv.live:80/live/MegaTest/MegaTV/153.ts
+#EXTINF:0 tvg-name="ESPN HD Sur" group-title="Deportes",ESPN HD Sur
+http://megatv.live:80/live/MegaTest/MegaTV/154.ts
+#EXTINF:0 tvg-name="ESPN 2 Norte" group-title="Deportes",ESPN 2 Norte
+http://megatv.live:80/live/MegaTest/MegaTV/151.ts
+#EXTINF:0 tvg-name="ESPN 2 HD Norte" group-title="Deportes",ESPN 2 HD Norte
+http://megatv.live:80/live/MegaTest/MegaTV/152.ts
+#EXTINF:0 tvg-name="ESPN 2 Sur" group-title="Deportes",ESPN 2 Sur
+http://megatv.live:80/live/MegaTest/MegaTV/149.ts
+#EXTINF:0 tvg-name="ESPN 2 HD Sur" group-title="Deportes",ESPN 2 HD Sur
+http://megatv.live:80/live/MegaTest/MegaTV/150.ts
+#EXTINF:0 tvg-name="ESPN 3 Sur" group-title="Deportes",ESPN 3 Sur
+http://megatv.live:80/live/MegaTest/MegaTV/146.ts
+#EXTINF:0 tvg-name="ESPN 3 HD Sur" group-title="Deportes",ESPN 3 HD Sur
+http://megatv.live:80/live/MegaTest/MegaTV/147.ts
+#EXTINF:0 tvg-name="ESPN 3 HD Norte" group-title="Deportes",ESPN 3 HD Norte
+http://megatv.live:80/live/MegaTest/MegaTV/148.ts
+#EXTINF:0 tvg-name="ESPN Deportes HD" group-title="Deportes",ESPN Deportes HD
+http://megatv.live:80/live/MegaTest/MegaTV/158.ts
+#EXTINF:0 tvg-name="Fox Deportes HD" group-title="Deportes",Fox Deportes HD
+http://megatv.live:80/live/MegaTest/MegaTV/177.ts
+#EXTINF:0 tvg-name="Fox Sports Sur" group-title="Deportes",Fox Sports Sur
+http://megatv.live:80/live/MegaTest/MegaTV/171.ts
+#EXTINF:0 tvg-name="Fox Sports HD Sur" group-title="Deportes",Fox Sports HD Sur
+http://megatv.live:80/live/MegaTest/MegaTV/412.ts
+#EXTINF:0 tvg-name="Fox Sports 1 Sur" group-title="Deportes",Fox Sports 1 Sur
+http://megatv.live:80/live/MegaTest/MegaTV/172.ts
+#EXTINF:0 tvg-name="Fox Sports 1 HD Sur" group-title="Deportes",Fox Sports 1 HD Sur
+http://megatv.live:80/live/MegaTest/MegaTV/173.ts
+#EXTINF:0 tvg-name="Fox Sports 1 HD norte" group-title="Deportes",Fox Sports 1 HD Norte
+http://megatv.live:80/live/MegaTest/MegaTV/175.ts
+#EXTINF:0 tvg-name="Fox Sports 2 Sur" group-title="Deportes",Fox Sports 2 Sur
+http://megatv.live:80/live/MegaTest/MegaTV/168.ts
+#EXTINF:0 tvg-name="Fox Sports 2 HD Sur" group-title="Deportes",Fox Sports 2 HD Sur
+http://megatv.live:80/live/MegaTest/MegaTV/169.ts
+#EXTINF:0 tvg-name="Fox Sports 2 HD Norte" group-title="Deportes",Fox Sports 2 HD Norte
+http://megatv.live:80/live/MegaTest/MegaTV/170.ts
+#EXTINF:0 tvg-name="Fox Sports 3 Sur" group-title="Deportes",Fox Sports 3 Sur
+http://megatv.live:80/live/MegaTest/MegaTV/165.ts
+#EXTINF:0 tvg-name="Fox Sports 3 HD Sur" group-title="Deportes",Fox Sports 3 HD Sur
+http://megatv.live:80/live/MegaTest/MegaTV/166.ts
+#EXTINF:0 tvg-name="Fox Sports 3 HD Norte" group-title="Deportes",Fox Sports 3 HD Norte
+http://megatv.live:80/live/MegaTest/MegaTV/167.ts
+#EXTINF:0 tvg-name="Fox Sports PREMIUM" group-title="Deportes",Fox Sports PREMIUM
+http://megatv.live:80/live/MegaTest/MegaTV/58.ts
+#EXTINF:0 tvg-name="Fox Sports PREMIUM HD" group-title="Deportes",Fox Sports PREMIUM HD
+http://megatv.live:80/live/MegaTest/MegaTV/176.ts
+#EXTINF:0 tvg-name="Tennis Channel HD" group-title="Deportes",Tennis Channel HD
+http://megatv.live:80/live/MegaTest/MegaTV/388.ts
+#EXTINF:0 tvg-name="TNT Sports" group-title="Deportes",TNT Sports
+http://megatv.live:80/live/MegaTest/MegaTV/53.ts
+#EXTINF:0 tvg-name="TNT Sports HD" group-title="Deportes",TNT Sports HD
+http://megatv.live:80/live/MegaTest/MegaTV/183.ts
+#EXTINF:0 tvg-name="TyC Sports" group-title="Deportes",TyC Sports
+http://megatv.live:80/live/MegaTest/MegaTV/184.ts
+#EXTINF:0 tvg-name="TyC Sports HD" group-title="Deportes",TyC Sports HD
+http://megatv.live:80/live/MegaTest/MegaTV/395.ts
+
+
+
+
+#EXTINF:0 tvg-name="Anime TV" group-title="Infantiles",Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:0 tvg-name="Baby TV" group-title="Infantiles",Baby TV
+http://megatv.live:80/live/MegaTest/MegaTV/294.ts
+#EXTINF:0 tvg-name="Boomerang" group-title="Infantiles",Boomerang
+http://megatv.live:80/live/MegaTest/MegaTV/290.ts
+#EXTINF:0 tvg-name="Boomerang HD" group-title="Infantiles",Boomerang HD
+http://megatv.live:80/live/MegaTest/MegaTV/404.ts
+#EXTINF:0 tvg-name="Cartoon Network (Latinoamérica)" group-title="Infantiles",Cartoon Network (Latinoamérica)
+http://megatv.live:80/live/MegaTest/MegaTV/286.ts
+#EXTINF:0 tvg-name="Cartoon Network HD (Latinoamérica)" group-title="Infantiles",Cartoon Network HD (Latinoamérica)
+http://megatv.live:80/live/MegaTest/MegaTV/393.ts
+#EXTINF:0 tvg-name="Cartoon Network (Oeste)" group-title="Infantiles",Cartoon Network (Oeste)
+http://megatv.live:80/live/MegaTest/MegaTV/287.ts
+#EXTINF:0 tvg-name="Discovery Kids" group-title="Infantiles",Discovery Kids
+http://megatv.live:80/live/MegaTest/MegaTV/288.ts
+#EXTINF:0 tvg-name="Discovery Kids HD" group-title="Infantiles",Discovery Kids HD
+http://megatv.live:80/live/MegaTest/MegaTV/289.ts
+#EXTINF:0 tvg-name="Disney Channel" group-title="Infantiles",Disney Channel
+http://megatv.live:80/live/MegaTest/MegaTV/284.ts
+#EXTINF:0 tvg-name="Disney Channel HD" group-title="Infantiles",Disney Channel HD
+http://megatv.live:80/live/MegaTest/MegaTV/285.ts
+#EXTINF:0 tvg-name="Disney Junior" group-title="Infantiles",Disney Junior
+http://megatv.live:80/live/MegaTest/MegaTV/282.ts
+#EXTINF:0 tvg-name="Disney XD" group-title="Infantiles",Disney XD
+http://megatv.live:80/live/MegaTest/MegaTV/283.ts
+#EXTINF:0 tvg-name="Locomotion" group-title="Infantiles",Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:0 tvg-name="NAT GEO Kids" group-title="Infantiles",NAT GEO Kids
+http://megatv.live:80/live/MegaTest/MegaTV/322.ts
+#EXTINF:0 tvg-name="Nickelodeon" group-title="Infantiles",Nickelodeon
+http://megatv.live:80/live/MegaTest/MegaTV/279.ts
+#EXTINF:0 tvg-name="Nick HD" group-title="Infantiles",Nick HD
+http://megatv.live:80/live/MegaTest/MegaTV/280.ts
+#EXTINF:0 tvg-name="Nick 2 HD" group-title="Infantiles",Nick 2 HD
+http://megatv.live:80/live/MegaTest/MegaTV/281.ts
+#EXTINF:0 tvg-name="Nick Jr." group-title="Infantiles",Nick Jr.
+http://megatv.live:80/live/MegaTest/MegaTV/278.ts
+#EXTINF:0 tvg-name="PAKA PAKA" group-title="Infantiles",PAKA PAKA
+http://megatv.live:80/live/MegaTest/MegaTV/82.ts
+#EXTINF:0 tvg-name="Tooncast" group-title="Infantiles",Tooncast
+http://megatv.live:80/live/MegaTest/MegaTV/291.ts
+
+
+#EXTINF:0 tvg-name="Animal Planet" group-title="Documentales",Animal Planet
+http://megatv.live:80/live/MegaTest/MegaTV/323.ts
+#EXTINF:0 tvg-name="Discovery Channel" group-title="Documentales",Discovery Channel
+http://megatv.live:80/live/MegaTest/MegaTV/341.ts
+#EXTINF:0 tvg-name="Discovery Channel HD" group-title="Documentales",Discovery Channel HD
+http://megatv.live:80/live/MegaTest/MegaTV/342.ts
+#EXTINF:0 tvg-name="Discovery Civilization" group-title="Documentales",Discovery Civilization
+http://megatv.live:80/live/MegaTest/MegaTV/335.ts
+#EXTINF:0 tvg-name="Discovery Civilization HD" group-title="Documentales",Discovery Civilization HD
+http://megatv.live:80/live/MegaTest/MegaTV/340.ts
+#EXTINF:0 tvg-name="Discovery en Español" group-title="Documentales",Discovery en Español
+http://megatv.live:80/live/MegaTest/MegaTV/338.ts
+#EXTINF:0 tvg-name="Discovery Familia" group-title="Documentales",Discovery Familia
+http://megatv.live:80/live/MegaTest/MegaTV/337.ts
+#EXTINF:0 tvg-name="Discovery Science HD" group-title="Documentales",Discovery Science HD
+http://megatv.live:80/live/MegaTest/MegaTV/339.ts
+#EXTINF:0 tvg-name="Discovery Theater HD" group-title="Documentales",Discovery Theater HD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(03)/index.m3u8
+#EXTINF:0 tvg-name="Discovery Turbo" group-title="Documentales",Discovery Turbo
+http://megatv.live:80/live/MegaTest/MegaTV/336.ts
+#EXTINF:0 tvg-name="Discovery Turbo HD" group-title="Documentales",Discovery Turbo HD
+http://megatv.live:80/live/MegaTest/MegaTV/396.ts
+#EXTINF:0 tvg-name="Discovery World HD" group-title="Documentales",Discovery World HD
+http://megatv.live:80/live/MegaTest/MegaTV/344.ts
+#EXTINF:0 tvg-name="Encuentro" group-title="Documentales",Encuentro
+http://megatv.live:80/live/MegaTest/MegaTV/44.ts
+#EXTINF:0 tvg-name="History Channel" group-title="Documentales",History Channel
+http://megatv.live:80/live/MegaTest/MegaTV/330.ts
+#EXTINF:0 tvg-name="History en Español" group-title="Documentales",History en Español
+http://megatv.live:80/live/MegaTest/MegaTV/329.ts
+#EXTINF:0 tvg-name="History HD" group-title="Documentales",History HD
+http://megatv.live:80/live/MegaTest/MegaTV/331.ts
+#EXTINF:0 tvg-name="H2" group-title="Documentales",H2
+http://megatv.live:80/live/MegaTest/MegaTV/328.ts
+#EXTINF:0 tvg-name="NAT GEO" group-title="Documentales",NAT GEO
+http://megatv.live:80/live/MegaTest/MegaTV/347.ts
+#EXTINF:0 tvg-name="NAT GEO HD" group-title="Documentales",NAT GEO HD
+http://megatv.live:80/live/MegaTest/MegaTV/348.ts
+#EXTINF:0 tvg-name="NAT GEO Wild" group-title="Documentales",NAT GEO Wild
+http://megatv.live:80/live/MegaTest/MegaTV/345.ts
+#EXTINF:0 tvg-name="NAT GEO Wild HD" group-title="Documentales",NAT GEO Wild HD
+http://megatv.live:80/live/MegaTest/MegaTV/399.ts
+#EXTINF:0 tvg-name="NAT GEO Mundo" group-title="Documentales",NAT GEO Mundo
+http://megatv.live:80/live/MegaTest/MegaTV/346.ts
+
+
+
+
+
+
+#EXTINF:0 tvg-name="A24" group-title="Noticias",A24
+http://megatv.live:80/live/MegaTest/MegaTV/36.ts
+#EXTINF:0 tvg-name="Canal 26 Noticias" group-title="Noticias",Canal 26 Noticias
+http://megatv.live:80/live/MegaTest/MegaTV/32.ts
+#EXTINF:0 tvg-name="Canal 26 Noticias HD" group-title="Noticias",Canal 26 Noticias HD
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:0 tvg-name="C5N" group-title="Noticias",C5N
+http://megatv.live:80/live/MegaTest/MegaTV/45.ts
+#EXTINF:0 tvg-name="CNN en Español" group-title="Noticias",CNN en Español
+http://megatv.live:80/live/MegaTest/MegaTV/365.ts
+#EXTINF:0 tvg-name="TN24 HD" group-title="Noticias",TN24 HD
+http://megatv.live:80/live/MegaTest/MegaTV/46.ts
+
+
+
+#EXTINF:0 tvg-name="The Simpsons" group-title="24/7",The Simpsons
+http://megatv.live:80/live/MegaTest/MegaTV/80.ts
+
+
+#EXTINF:0 tvg-name="Antena 3" group-title="Internacionales",Antena 3
+http://megatv.live:80/live/MegaTest/MegaTV/203.ts
+#EXTINF:0 tvg-name="DW Español" group-title="Internacionales",DW Español
+http://megatv.live:80/live/MegaTest/MegaTV/359.ts
+#EXTINF:0 tvg-name="Telemundo" group-title="Internacionales",Telemundo
+http://megatv.live:80/live/MegaTest/MegaTV/310.ts
+#EXTINF:0 tvg-name="Telemundo HD" group-title="Internacionales",Telemundo HD
+http://megatv.live:80/live/MegaTest/MegaTV/379.ts
+#EXTINF:0 tvg-name="Univision HD" group-title="Internacionales",Univision HD
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8

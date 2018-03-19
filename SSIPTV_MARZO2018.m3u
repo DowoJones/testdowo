@@ -6,7 +6,7 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/inde
 http://megatv.live:80/live/MegaTest/MegaTV/96.ts
 #EXTINF:0 tvg-name="Movistar F1" group-title="F1", Movistar F1
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
-#EXTINF:0, tvg-name="Movistar F1" group-title="F1", Movistar F1
+#EXTINF:0 tvg-name="Movistar F1" group-title="F1", Movistar F1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
 
 
@@ -16,7 +16,7 @@ http://ragnaroktv.com/hls_live/kr/AMC_HD/MzI1MzQxsDAxMwAA/amc.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="AXN HD" group-title="Películas/Series", AXN HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="AXN FHD" group-title="Películas/Series", AXN FHD
+#EXTINF:0 tvg-name="AXN HD" group-title="Películas/Series", AXN HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="AXN HD" group-title="Películas/Series", AXN HD
 http://ragnaroktv.com/hls_live/kr/AXN_HD/MzI1MzQxsDAxMwAA/axn.m3u8
@@ -24,7 +24,7 @@ http://ragnaroktv.com/hls_live/kr/AXN_HD/MzI1MzQxsDAxMwAA/axn.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="Cinecanal HD" group-title="Películas/Series", Cinecanal HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Cinecanal FHD" group-title="Películas/Series", Cinecanal FHD
+#EXTINF:0 tvg-name="Cinecanal HD" group-title="Películas/Series", Cinecanal HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="Cinecanal HD" group-title="Películas/Series", Cinecanal HD
 http://ragnaroktv.com/hls_live/kr/CINECANAL_HD/MzI1MzQxsDAxMwAA/cinecanal.m3u8
@@ -38,7 +38,7 @@ http://ragnaroktv.com/hls_live/kr/EUROCHANNEL/MzI1MzQxsDAxMwAA/eurochannel.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="Film Zone HD" group-title="Películas/Series", Film Zone HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Film Zone FHD" group-title="Películas/Series", Film Zone FHD
+#EXTINF:0 tvg-name="Film Zone HD" group-title="Películas/Series", Film Zone HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="Film Zone" group-title="Películas/Series", Film Zone
 http://ragnaroktv.com/hls_live/kr/THE_FILM_ZONE_HD/MzI1MzQxsDAxMwAA/fxm.m3u8
@@ -51,34 +51,34 @@ http://ragnaroktv.com/hls_live/kr/FOX_HD/MzI1MzQxsDAxMwAA/f0x.m3u8
 #EXTINF:0 tvg-name="Fox Action HD" group-title="Películas/Series", Fox Action HD
 http://ragnaroktv.com/hls_live/kr/FOXACTION_HD/MzI1MzQxsDAxMwAA/foxaction.m3u8
 #EXTINF:0 tvg-name="Fox Action" group-title="Películas/Series", Fox Action
-http://ragnaroktv.com/hls_live/kr/FOX_ACTION_MEXICO_HD/MzI1MzQxsDAxMwAA/fox_action_mx.m3u8
+http://ragnaroktv.com/hls_live/kr/FOX_ACTION_MEXICO_HD/MzI1MzQxsDAxMwAA/fox_action_.m3u8
 #EXTINF:0 tvg-name="Fox Cinema" group-title="Películas/Series", Fox Cinema
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(04)/index.m3u8
-#EXTINF:0 tvg-name="Fox Cinema HD" group-title="Películas/Series", Fox Cinema HD
+#EXTINF:0 tvg-name="Fox Cinema [HD]" group-title="Películas/Series", Fox Cinema [HD]
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Fox Cinema FHD" group-title="Películas/Series", Fox Cinema FHD
+#EXTINF:0 tvg-name="Fox Cinema [HD]" group-title="Películas/Series", Fox Cinema [HD]
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(06)/index.m3u8
-#EXTINF:0 tvg-name="Fox Cinema" group-title="Películas/Series", Fox Cinema
+#EXTINF:0 tvg-name="Fox Cinema [HD]" group-title="Películas/Series", Fox Cinema [HD]
 http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD/MzI1MzQxsDAxMwAA/f0x_cinema.m3u8
-#EXTINF:0 tvg-name="Fox Cinema HD" group-title="Películas/Series", Fox Cinema HD
+#EXTINF:0 tvg-name="Fox Cinema [HD]" group-title="Películas/Series", Fox Cinema [HD]
 http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD_SUB/MzI1MzQxsDAxMwAA/f0x_cinema_sub.m3u8
-#EXTINF:0 tvg-name="Fox Classics HD" group-title="Películas/Series", Fox Classics HD
+#EXTINF:0 tvg-name="Fox Classics" group-title="Películas/Series", Fox Classics
 http://ragnaroktv.com/hls_live/kr/FOX_CLASSICS_HD/MzI1MzQxsDAxMwAA/f0x_classics.m3u8
 #EXTINF:0 tvg-name="Fox Comedy" group-title="Películas/Series", Fox Comedy
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="Fox Comedy HD" group-title="Películas/Series", Fox Comedy HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Fox Comedy FHD" group-title="Películas/Series", Fox Comedy FHD
+#EXTINF:0 tvg-name="Fox Comedy HD" group-title="Películas/Series", Fox Comedy HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="Fox Comedy HD" group-title="Películas/Series", Fox Comedy HD
 http://ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/MzI1MzQxsDAxMwAA/f0x_comedy.m3u8
 #EXTINF:0 tvg-name="Fox Family" group-title="Películas/Series", Fox Family
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(04)/index.m3u8
-#EXTINF:0 tvg-name="Fox Family HD" group-title="Películas/Series", Fox Family HD
+#EXTINF:0 tvg-name="Fox Family [HD]" group-title="Películas/Series", Fox Family [HD]
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Fox Family FHD" group-title="Películas/Series", Fox Family FHD
+#EXTINF:0 tvg-name="Fox Family [HD]" group-title="Películas/Series", Fox Family [HD]
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(06)/index.m3u8
-#EXTINF:0 tvg-name="Fox Family HD" group-title="Películas/Series", Fox Family HD
+#EXTINF:0 tvg-name="Fox Family [HD]" group-title="Películas/Series", Fox Family [HD]
 http://ragnaroktv.com/hls_live/kr/FOXFAMILY_HD/MzI1MzQxsDAxMwAA/f0x_family.m3u8
 #EXTINF:0 tvg-name="Fox Life HD" group-title="Películas/Series", Fox Life HD
 http://ragnaroktv.com/hls_live/kr/FOX_LIFE_HD/MzI1MzQxsDAxMwAA/f0xlife.m3u8
@@ -86,21 +86,21 @@ http://ragnaroktv.com/hls_live/kr/FOX_LIFE_HD/MzI1MzQxsDAxMwAA/f0xlife.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="Fox Movies HD" group-title="Películas/Series", Fox Movies HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Fox Movies FHD" group-title="Películas/Series", Fox Movies FHD
+#EXTINF:0 tvg-name="Fox Movies HD" group-title="Películas/Series", Fox Movies HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="Fox Movies HD" group-title="Películas/Series", Fox Movies HD
 http://ragnaroktv.com/hls_live/kr/FOXMOVIES_HD/MzI1MzQxsDAxMwAA/f0x_movies.m3u8
-#EXTINF:0 tvg-name="Fox Series" group-title="Películas/Series", Fox Series
+#EXTINF:0 tvg-name="Fox Series HD" group-title="Películas/Series", Fox Series HD
 http://ragnaroktv.com/hls_live/kr/FOX1_HD/MzI1MzQxsDAxMwAA/f0x_series.m3u8
 #EXTINF:0 tvg-name="FX" group-title="Películas/Series", FX
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="FX HD" group-title="Películas/Series", FX HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="FX FHD" group-title="Películas/Series", FX FHD
+#EXTINF:0 tvg-name="FX HD" group-title="Películas/Series", FX HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="FX HD" group-title="Películas/Series", FX HD
 http://ragnaroktv.com/hls_live/kr/FX_HD/MzI1MzQxsDAxMwAA/fx.m3u8
-#EXTINF:0 tvg-name="Golden Premier HD" group-title="Películas/Series", Golden Premier HD
+#EXTINF:0 tvg-name="Golden Premier" group-title="Películas/Series", Golden Premier
 http://ragnaroktv.com/hls_live/kr/GOLDEN_PREMIER_HD/MzI1MzQxsDAxMwAA/goldp.m3u8
 #EXTINF:0 tvg-name="Golden HD" group-title="Películas/Series", Golden HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/Stream(04)/index.m3u8
@@ -110,7 +110,7 @@ http://ragnaroktv.com/hls_live/kr/GOLDEN_HD/MzI1MzQxsDAxMwAA/golden.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="HBO HD" group-title="Películas/Series", HBO HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="HBO FHD" group-title="Películas/Series", HBO FHD
+#EXTINF:0 tvg-name="HBO HD" group-title="Películas/Series", HBO HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="HBO HD" group-title="Películas/Series", HBO HD
 http://ragnaroktv.com/hls_live/kr/HBO_HD_SUB/MzI1MzQxsDAxMwAA/hbohd_sub.m3u8
@@ -120,7 +120,7 @@ http://ragnaroktv.com/hls_live/kr/HBO_2_HD/MzI1MzQxsDAxMwAA/hb02.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="HBO Family HD" group-title="Películas/Series", HBO Family
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="HBO Family FHD" group-title="Películas/Series", HBO Family FHD
+#EXTINF:0 tvg-name="HBO Family HD" group-title="Películas/Series", HBO Family HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="HBO Family HD" group-title="Películas/Series", HBO Family HD
 http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzI1MzQxsDAxMwAA/hb0fam.m3u8
@@ -128,7 +128,7 @@ http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzI1MzQxsDAxMwAA/hb0fam.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="HBO Plus HD" group-title="Películas/Series", HBO Plus HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="HBO Plus FHD" group-title="Películas/Series", HBO Plus FHD
+#EXTINF:0 tvg-name="HBO Plus HD" group-title="Películas/Series", HBO Plus HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="HBO Plus HD" group-title="Películas/Series", HBO Plus HD
 http://ragnaroktv.com/hls_live/kr/HBO_PLUS_HD/MzI1MzQxsDAxMwAA/hboplus.m3u8
@@ -136,7 +136,7 @@ http://ragnaroktv.com/hls_live/kr/HBO_PLUS_HD/MzI1MzQxsDAxMwAA/hboplus.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="HBO Signature HD" group-title="Películas/Series", HBO Signature HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="HBO Signature FHD" group-title="Películas/Series", HBO Signature FHD
+#EXTINF:0 tvg-name="HBO Signature HD" group-title="Películas/Series", HBO Signature HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="HBO Signature HD" group-title="Películas/Series", HBO Signature HD
 http://ragnaroktv.com/hls_live/kr/HBO_SIGNATURE_HD/MzI1MzQxsDAxMwAA/hbosign.m3u8
@@ -146,19 +146,19 @@ http://ragnaroktv.com/hls_live/kr/ISAT/MzI1MzQxsDAxMwAA/isat.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-name="Max Prime" group-title="Películas/Series", Max Prime
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(04)/index.m3u8
-#EXTINF:0 tvg-name="Max Prime HD" group-title="Películas/Series", Max Prime HD
+#EXTINF:0 tvg-name="Max Prime [HD]" group-title="Películas/Series", Max Prime [HD]
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Max Prime FHD" group-title="Películas/Series", Max Prime FHD
+#EXTINF:0 tvg-name="Max Prime [HD]" group-title="Películas/Series", Max Prime [HD]
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(06)/index.m3u8
-#EXTINF:0 tvg-name="Max Prime HD" group-title="Películas/Series", Max Prime HD
+#EXTINF:0 tvg-name="Max Prime [HD]" group-title="Películas/Series", Max Prime [HD]
 http://ragnaroktv.com/hls_live/kr/MAX_PRIME_HD/MzI1MzQxsDAxMwAA/m4x_prime.m3u8
-#EXTINF:0 tvg-name="Max UP HD" group-title="Películas/Series", Max UP HD
+#EXTINF:0 tvg-name="Max UP [HD]" group-title="Películas/Series", Max UP [HD]
 http://ragnaroktv.com/hls_live/kr/MAX_UP_HD/MzI1MzQxsDAxMwAA/m4xup.m3u8
 #EXTINF:0 tvg-name="Paramount Channel" group-title="Películas/Series", Paramount Channel
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="Paramount Channel HD" group-title="Películas/Series", Paramount Channel HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Paramount Channel FHD" group-title="Películas/Series", Paramount Channel FHD
+#EXTINF:0 tvg-name="Paramount Channel HD" group-title="Películas/Series", Paramount Channel HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="Paramount Channel HD" group-title="Películas/Series", Paramount Channel HD
 http://ragnaroktv.com/hls_live/kr/PARAMOUNT_HD/MzI1MzQxsDAxMwAA/param.m3u8
@@ -166,7 +166,7 @@ http://ragnaroktv.com/hls_live/kr/PARAMOUNT_HD/MzI1MzQxsDAxMwAA/param.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="Sony HD" group-title="Películas/Series", Sony HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Sony FHD" group-title="Películas/Series", Sony FHD
+#EXTINF:0 tvg-name="Sony HD" group-title="Películas/Series", Sony HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="Sony HD" group-title="Películas/Series", Sony HD
 http://ragnaroktv.com/hls_live/kr/SONY_HD/MzI1MzQxsDAxMwAA/sony.m3u8
@@ -174,7 +174,7 @@ http://ragnaroktv.com/hls_live/kr/SONY_HD/MzI1MzQxsDAxMwAA/sony.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="Space HD" group-title="Películas/Series", Space HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Space FHD" group-title="Películas/Series", Space FHD
+#EXTINF:0 tvg-name="Space HD" group-title="Películas/Series", Space HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="Space HD" group-title="Películas/Series", Space HD
 http://ragnaroktv.com/hls_live/kr/SPACE_HD/MzI1MzQxsDAxMwAA/space.m3u8
@@ -184,7 +184,7 @@ http://ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/MzI1MzQxsDAxMwAA/stdio_univ.m
 http://ragnaroktv.com/hls_live/kr/SUNDANCE_HD/MzI1MzQxsDAxMwAA/sundance.m3u8
 #EXTINF:0 tvg-name="Sun Channel" group-title="Películas/Series",Sun Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
-#EXTINF:0 tvg-name="TBS HD" group-title="Películas/Series", TBS HD
+#EXTINF:0 tvg-name="TBS" group-title="Películas/Series", TBS
 http://ragnaroktv.com/hls_live/kr/TBS_HD/MzI1MzQxsDAxMwAA/tbs.m3u8
 #EXTINF: tvg-name="TCM" group-title="Películas/Series"0, TCM
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/Stream(04)/index.m3u8
@@ -194,35 +194,35 @@ http://ragnaroktv.com/hls_live/kr/TCM/MzI1MzQxsDAxMwAA/tcm.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="TNT HD" group-title="Películas/Series", TNT HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="TNT FHD" group-title="Películas/Series", TNT FHD
+#EXTINF:0 tvg-name="TNT HD" group-title="Películas/Series", TNT HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="TNT HD" group-title="Películas/Series", TNT HD
 http://ragnaroktv.com/hls_live/kr/TNT_HD/MzI1MzQxsDAxMwAA/tnt.m3u8
 #EXTINF:0 tvg-name="TNT Series" group-title="Películas/Series", TNT Series
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(04)/index.m3u8
-#EXTINF:0 tvg-name="TNT Series HD" group-title="Películas/Series", TNT Series HD
+#EXTINF:0 tvg-name="TNT Series" group-title="Películas/Series", TNT Series
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="TNT Series FHD" group-title="Películas/Series", TNT Series FHD
+#EXTINF:0 tvg-name="TNT Series" group-title="Películas/Series", TNT Series
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(06)/index.m3u8
-#EXTINF:0 tvg-name="TNT Series HD" group-title="Películas/Series", TNT Series HD
+#EXTINF:0 tvg-name="TNT Series [HD]" group-title="Películas/Series", TNT Series [HD]
 http://ragnaroktv.com/hls_live/kr/TNT_SERIES_HD/MzI1MzQxsDAxMwAA/tnt_ser.m3u8
 #EXTINF:0 tvg-name="Universal Channel" group-title="Películas/Series", Universal Channel
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="Universal Channel HD" group-title="Películas/Series", Universal Channel HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Universal Channel FHD" group-title="Películas/Series", Universal Channel FHD
+#EXTINF:0 tvg-name="Universal Channel HD" group-title="Películas/Series", Universal Channel HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="Universal Channel" group-title="Películas/Series", Universal Channel
 http://ragnaroktv.com/hls_live/kr/UNIVERSAL_CHANNEL/MzI1MzQxsDAxMwAA/univers.m3u8
 #EXTINF:0 tvg-name="Warner Channel" group-title="Películas/Series", Warner Channel
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(04)/index.m3u8
-#EXTINF:0 tvg-name="Warner Channel HD" group-title="Películas/Series", Warner Channel HD
+#EXTINF:0 tvg-name="Warner HD" group-title="Películas/Series", Warner HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Warner Channel FHD" group-title="Películas/Series", Warner Channel FHD
+#EXTINF:0 tvg-name="Warner HD" group-title="Películas/Series", Warner HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(06)/index.m3u8
-#EXTINF:0 tvg-name="Warner Channel HD" group-title="Películas/Series", WARNER HD
+#EXTINF:0 tvg-name="Warner HD" group-title="Películas/Series", Warner HD
 http://ragnaroktv.com/hls_live/kr/WARNER_HD/MzI1MzQxsDAxMwAA/warner.m3u8
-#EXTINF:0 tvg-name="AXN España" group-title="Películas/Series", AXN España
+#EXTINF:0 tvg-name="AXN [España]" group-title="Películas/Series", AXN [España]
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/610/index.m3u8
 #EXTINF:0 tvg-name="AXN White" group-title="Películas/Series", AXN White
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
@@ -238,7 +238,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/inde
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="Animal Planet HD" group-title="Entretenimiento", Animal Planet HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Animal Planet FHD" group-title="Entretenimiento", Animal Planet FHD
+#EXTINF:0 tvg-name="Animal Planet HD" group-title="Entretenimiento", Animal Planet HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="Animal Planet HD" group-title="Entretenimiento", Animal Planet HD
 http://ragnaroktv.com/hls_live/kr/ANIMAL_PLANET_HD/MzI1MzQxsDAxMwAA/anim_planet.m3u8
@@ -246,7 +246,7 @@ http://ragnaroktv.com/hls_live/kr/ANIMAL_PLANET_HD/MzI1MzQxsDAxMwAA/anim_planet.
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="A&E HD" group-title="Entretenimiento", A&E HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="A&E FHD" group-title="Entretenimiento", A&E FHD
+#EXTINF:0 tvg-name="A&E HD" group-title="Entretenimiento", A&E HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="A&E HD" group-title="Entretenimiento", A&E HD
 http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/MzI1MzQxsDAxMwAA/aehd.m3u8
@@ -254,7 +254,7 @@ http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/MzI1MzQxsDAxMwAA/aehd.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="Comedy Central HD" group-title="Entretenimiento", Comedy Central HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Comedy Central FHD" group-title="Entretenimiento", Comedy Central FHD
+#EXTINF:0 tvg-name="Comedy Central HD" group-title="Entretenimiento", Comedy Central HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="Comedy Central HD" group-title="Entretenimiento", Comedy Central HD
 http://ragnaroktv.com/hls_live/kr/COMEDY_CENTRAL_HD/MzI1MzQxsDAxMwAA/cc.m3u8
@@ -270,7 +270,7 @@ http://ragnaroktv.com/hls_live/kr/DISCOVERY_SCIENCE/MzI1MzQxsDAxMwAA/disc_scienc
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="Discovery Theater HD" group-title="Entretenimiento", Discovery Theater HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Discovery Theater FHD" group-title="Entretenimiento", Discovery Theater FHD
+#EXTINF:0 tvg-name="Discovery Theater HD" group-title="Entretenimiento", Discovery Theater HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="Discovery Theater HD" group-title="Entretenimiento", Discovery Theater HD
 http://ragnaroktv.com/hls_live/kr/DISCOVERY_THEATER_HD/MzI1MzQxsDAxMwAA/theater.m3u8
@@ -284,7 +284,7 @@ http://ragnaroktv.com/hls_live/kr/DISCOVERY_WORLD_HD/MzI1MzQxsDAxMwAA/world.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="History HD" group-title="Entretenimiento", History HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="History FHD" group-title="Entretenimiento", History FHD
+#EXTINF:0 tvg-name="History HD" group-title="Entretenimiento", History HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="History HD" group-title="Entretenimiento", History HD
 http://ragnaroktv.com/hls_live/kr/HISTORY_CHANNEL_HD/MzI1MzQxsDAxMwAA/history.m3u8
@@ -294,50 +294,50 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(04)/index.m3u8
 http://ragnaroktv.com/hls_live/kr/H2/MzI1MzQxsDAxMwAA/h2.m3u8
 #EXTINF:0 tvg-name="Investigation Discovery" group-title="Entretenimiento", Investigation Discovery
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(04)/index.m3u8
-#EXTINF:0 tvg-name="Investigation Discovery HD" group-title="Entretenimiento", Investigation Discovery HD
+#EXTINF:0 tvg-name="Investigation Discovery [HD]" group-title="Entretenimiento", Investigation Discovery [HD]
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="Investigation Discovery FHD" group-title="Entretenimiento", Investigation Discovery FHD
+#EXTINF:0 tvg-name="Investigation Discovery [HD]" group-title="Entretenimiento", Investigation Discovery [HD]
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(06)/index.m3u8
-#EXTINF:0 tvg-name="Investigation Discovery HD" group-title="Entretenimiento", Investigation Discovery HD
+#EXTINF:0 tvg-name="Investigation Discovery [HD]" group-title="Entretenimiento", Investigation Discovery [HD]
 http://ragnaroktv.com/hls_live/kr/ID_HD/MzI1MzQxsDAxMwAA/idhd.m3u8
 #EXTINF:0 tvg-name="NatGeo" group-title="Entretenimiento", NatGeo
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="NatGeo HD" group-title="Entretenimiento", NatGeo HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(05)/index.m3u8
-#EXTINF:0 tvg-name="NatGeo FHD" group-title="Entretenimiento", NatGeo FHD
+#EXTINF:0 tvg-name="NatGeo HD" group-title="Entretenimiento", NatGeo HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(06)/index.m3u8
 #EXTINF:0 tvg-name="NatGeo HD" group-title="Entretenimiento", NatGeo HD
 http://ragnaroktv.com/hls_live/kr/NATGEO_HD/MzI1MzQxsDAxMwAA/natgeo.m3u8
-#EXTINF:0 tvg-name="NatGeo MX HD" group-title="Entretenimiento", NatGeo MX HD
-http://ragnaroktv.com/hls_live/kr/NATGEO_MX_HD/MzI1MzQxsDAxMwAA/natgeo_mx.m3u8
+#EXTINF:0 tvg-name="NatGeo HD" group-title="Entretenimiento", NatGeo HD
+http://ragnaroktv.com/hls_live/kr/NATGEO__HD/MzI1MzQxsDAxMwAA/natgeo_.m3u8
 #EXTINF:0 tvg-name="TRU TV HD" group-title="Entretenimiento", TRU TV HD
 http://ragnaroktv.com/hls_live/kr/TRU_TV_HD/MzI1MzQxsDAxMwAA/trutv_hd.m3u8
-#EXTINF:0 tvg-name="Telemax HD" group-title="Entretenimiento",Telemax HD
+#EXTINF:0 tvg-name="Telemax [HD]" group-title="Entretenimiento",Telemax [HD]
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 
 #EXTINF:0 tvg-name="ESPN HD" group-title="Deportes", ESPN HD
 http://ragnaroktv.com/hls_live/kr/ESPN_HD/MzI1MzQxsDAxMwAA/espn.m3u8
-#EXTINF:0 tvg-name="ESPN 2 HD" group-title="Deportes", ESPN 2 HD
+#EXTINF:0 tvg-name="ESPN2 [HD]" group-title="Deportes", ESPN2 [HD]
 http://ragnaroktv.com/hls_live/kr/ESPN_2_HD/MzI1MzQxsDAxMwAA/espn2.m3u8
-#EXTINF:0 tvg-name="ESPN 3 HD" group-title="Deportes", ESPN 3 HD
+#EXTINF:0 tvg-name="ESPN3 HD" group-title="Deportes", ESPN3 HD
 http://ragnaroktv.com/hls_live/kr/ESPN_3_HD/MzI1MzQxsDAxMwAA/espn3_kr.m3u8
-#EXTINF:0 tvg-name="ESPN+ HD" group-title="Deportes", ESPN+ HD
+#EXTINF:0 tvg-name="ESPN+ [HD]" group-title="Deportes", ESPN+ [HD]
 http://ragnaroktv.com/hls_live/kr/ESPN_PLUS_HD/MzI1MzQxsDAxMwAA/espn_plus.m3u8
 #EXTINF:0 tvg-name="Fox Sports HD" group-title="Deportes", Fox Sports HD
 http://ragnaroktv.com/hls_live/kr/FOX_SPORTS_HD/MzI1MzQxsDAxMwAA/foxsports.m3u8
-#EXTINF:0 tvg-name="Fox Sports MX HD" group-title="Deportes", Fox Sports MX HD
-http://ragnaroktv.com/hls_live/kr/FOXSP1_MX_HD/MzI1MzQxsDAxMwAA/f0xsportsmx.m3u8
+#EXTINF:0 tvg-name="Fox Sports HD" group-title="Deportes", Fox Sports HD
+http://ragnaroktv.com/hls_live/kr/FOXSP1__HD/MzI1MzQxsDAxMwAA/f0xsports.m3u8
 #EXTINF:0 tvg-name="Fox Sports 2 HD" group-title="Deportes", Fox Sports 2 HD
 http://ragnaroktv.com/hls_live/kr/FOX_SPORTS2_HD/MzI1MzQxsDAxMwAA/foxsports2.m3u8
-#EXTINF:0 tvg-name="Fox Sports MX HD" group-title="Deportes", FOX Sports 2 MX HD
-http://ragnaroktv.com/hls_live/kr/FOXSP2_MX_HD/MzI1MzQxsDAxMwAA/f0xsports2mx.m3u8
+#EXTINF:0 tvg-name="Fox Sports 2 HD" group-title="Deportes", FOX Sports 2 HD
+http://ragnaroktv.com/hls_live/kr/FOXSP2__HD/MzI1MzQxsDAxMwAA/f0xsports2.m3u8
 #EXTINF:0 tvg-name="Fox Sports 3 HD" group-title="Deportes", Fox Sports 3 HD
 http://ragnaroktv.com/hls_live/kr/FOX_SPORTS3_HD/MzI1MzQxsDAxMwAA/foxsports3.m3u8
 
 
-#EXTINF:0 tvg-name="Anime TV" group-title="Infantiles", Anime Tv
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 tvg-name="Animax" group-title="Infantiles", Animax
+http://video7.stream.:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 tvg-name="Boomerang" group-title="Infantiles", Boomerang
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-name="Boomerang" group-title="Infantiles", Boomerang
@@ -348,9 +348,9 @@ http://ragnaroktv.com/hls_live/kr/CARTOON_NETWORK_HD/MzI1MzQxsDAxMwAA/cart_net.m
 http://ragnaroktv.com/hls_live/kr/DISCOVERY_KIDS_HD/MzI1MzQxsDAxMwAA/disc_kids.m3u8
 #EXTINF:0 tvg-name="Disney HD" group-title="Infantiles", Disney HD
 http://ragnaroktv.com/hls_live/kr/DISNEY_HD/MzI1MzQxsDAxMwAA/d1sney.m3u8
-#EXTINF:0 tvg-name="Disney Jr" group-title="Infantiles", Disney Jr
+#EXTINF:0 tvg-name="Disney Junior" group-title="Infantiles", Disney Junior
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(04)/index.m3u8
-#EXTINF:0 tvg-name="Disney Jr" group-title="Infantiles", Disney Jr
+#EXTINF:0 tvg-name="Disney Junior" group-title="Infantiles", Disney Junior
 http://ragnaroktv.com/hls_live/kr/DISNEY_JR/MzI1MzQxsDAxMwAA/d1sneyjr.m3u8
 #EXTINF:0 tvg-name="Disney XD" group-title="Infantiles", Disney XD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/index.m3u8
@@ -358,10 +358,10 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/ind
 http://ragnaroktv.com/hls_live/kr/DISNEY_XD/MzI1MzQxsDAxMwAA/d1sneyxd.m3u8
 #EXTINF:0 tvg-name="Locomotion" group-title="Infantiles", Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:0 tvg-name="NatGeo Kids HD" group-title="Infantiles", NatGeo Kids HD
+#EXTINF:0 tvg-name="NAT GEO Kids HD" group-title="Infantiles", NAT GEO Kids HD
 http://ragnaroktv.com/hls_live/kr/NATGEO_KIDS_HD/MzI1MzQxsDAxMwAA/natgeo_kids.m3u8
-#EXTINF:0 tvg-name="NatGeo Kids MX" group-title="Infantiles", NatGeo Kids MX
-http://ragnaroktv.com/hls_live/kr/NATGEOKIDS_MX_HD/MzI1MzQxsDAxMwAA/natgeo_kids_mx.m3u8
+#EXTINF:0 tvg-name="NAT GEO Kids" group-title="Infantiles", NAT GEO Kids
+http://ragnaroktv.com/hls_live/kr/NATGEOKIDS__HD/MzI1MzQxsDAxMwAA/natgeo_kids_.m3u8
 #EXTINF:0 tvg-name="Nickelodeon HD" group-title="Infantiles", Nickelodeon HD
 http://ragnaroktv.com/hls_live/kr/NICKELODEON_HD/MzI1MzQxsDAxMwAA/nick.m3u8
 #EXTINF:0 tvg-name="Nick 2 HD" group-title="Infantiles", Nick 2 HD
@@ -384,7 +384,7 @@ http://200.115.193.177/live/26hd-720/.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/id/0tek2aa8hAQ.3/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/dover/10/expire/1521416440/tx/9474466/gcr/ar/playlist_type/DVR/ratebypass/yes/keepalive/yes/source/yt_live_broadcast/maudio/1/ipbits/0/key/yt6/ip/152.171.253.204/ei/l6SuWrWiN8-lxgSAtYzoBQ/requiressl/yes/signature/411F158953CB17F45A8861B0A291F85C65E93A4D.6D13757E46613C89E3B5F49A6935200DC9AF484B/txs/9474466%2C9474467%2C23724086%2C23724087/itag/0/hfr/1/file/index.m3u8
 
 
-#EXTINF:0 tvg-name="Antena 3 HD" group-title="Internacionales", Antena 3 HD
+#EXTINF:0 tvg-name="Antena 3 [HD]" group-title="Internacionales", Antena 3 [HD]
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?www.tecnotv.info?sd=10&amp;rebase=on
 #EXTINF:0 tvg-name="Antena 3" group-title="Internacionales", Antena 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?www.tecnotv.info?time=1439881142212
@@ -394,7 +394,7 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?www.tecnotv.in
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?www.tecnotv.info
 #EXTINF:0 tvg-name="8 TV España" group-title="Internacionales", 8 TV España
 http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8?www.tecnotv.info
-#EXTINF:0 tvg-name="MEGA TV HD" group-title="Internacionales", MEGA TV HD
+#EXTINF:0 tvg-name="MEGA HD" group-title="Internacionales", MEGA HD
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
-#EXTINF:0 tvg-name="MEGA TV" group-title="Internacionales", MEGA TV
+#EXTINF:0 tvg-name="MEGA" group-title="Internacionales", MEGA
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?www.tecnotv.info

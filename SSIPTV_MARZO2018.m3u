@@ -175,7 +175,7 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(05)/ind
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(06)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Warner HD
 http://gratis.iptvcanales.com/hls/redirect.php/warrior/WARNER_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN [Espa�a]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN [Espa�a]
+#EXTINF:-1 tvg-id="" tvg-name="AXN [España]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN [España]
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/610/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN White" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN White
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8

@@ -183,15 +183,15 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(05)/ind
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(06)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Warner HD
 http://gratis.iptvcanales.com/hls/redirect.php/shadow/WARNER_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD [España]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AMC HD [España]
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD [Espa�a]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AMC HD [Espa�a]
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/614/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN [España]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN [España]
+#EXTINF:-1 tvg-id="" tvg-name="AXN [Espa�a]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN [Espa�a]
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/610/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN White" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN White
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX [España]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Fox [España]
+#EXTINF:-1 tvg-id="" tvg-name="FOX [Espa�a]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Fox [Espa�a]
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Life [España]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Fox Life [España]
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life [Espa�a]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Fox Life [Espa�a]
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/601/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Accion" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Movistar Accion
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
@@ -331,7 +331,7 @@ https://59583158c050f.streamlock.net:443/7186/7186/playlist.m3u8
 http://tecnotv.xyz/simpson1.php
 #EXTINF:-1 tvg-id="" tvg-name="Futurama 24/7" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Futurama 24/7
 http://tecnotv.xyz/futurama1.php
-#EXTINF:-1 tvg-id="" tvg-name="CNN en Español" tvg-shift="" radio="" tvg-logo="" group-title="Noticias",CNN en Español
+#EXTINF:-1 tvg-id="" tvg-name="CNN en Espa�ol" tvg-shift="" radio="" tvg-logo="" group-title="Noticias",CNN en Espa�ol
 http://gratis.iptvcanales.com/hls/redirect.php/shadow/CNN_ESPANOL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Todo Noticias TN" tvg-shift="" radio="" tvg-logo="" group-title="Noticias",Todo Noticias TN
 https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/id/0tek2aa8hAQ.3/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/dover/10/expire/1521416440/tx/9474466/gcr/ar/playlist_type/DVR/ratebypass/yes/keepalive/yes/source/yt_live_broadcast/maudio/1/ipbits/0/key/yt6/ip/152.171.253.204/ei/l6SuWrWiN8-lxgSAtYzoBQ/requiressl/yes/signature/411F158953CB17F45A8861B0A291F85C65E93A4D.6D13757E46613C89E3B5F49A6935200DC9AF484B/txs/9474466%2C9474467%2C23724086%2C23724087/itag/0/hfr/1/file/index.m3u8

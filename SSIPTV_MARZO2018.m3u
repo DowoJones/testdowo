@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="El 13 HD" tvg-shift="" radio="" tvg-logo="" group-title="Argentina",El 13 HD
+#EXTINF:-1 tvg-id="" tvg-name="El 13 HD" tvg-shift="" radio="" tvg-logo="" group-title="Argentina",El 13 [HD]
 http://200.89.190.163/live/live/ArtearHD/SA_Live/ArtearHD-audio_AACL_spa_144800_50=144800-video=3900000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El 13 HD" tvg-shift="" radio="" tvg-logo="" group-title="Argentina",El 13 HD
+#EXTINF:-1 tvg-id="" tvg-name="El 13 HD" tvg-shift="" radio="" tvg-logo="" group-title="Argentina",El 13 [HD]
 http://200.89.190.163/live/live/ArtearHD/SA_Live/ArtearHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El 13 HD" tvg-shift="" radio="" tvg-logo="" group-title="Argentina",El 13 [HD]
+http://cdn.prepro.cvattv.com.ar/live/live/ArtearHD/SA_Live/ArtearHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1 (HD)
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1
@@ -11,12 +13,16 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1
 http://gratis.iptvcanales.com/hls/redirect.php/shadow/J02/channel.php/192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP (HD)
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP
 http://gratis.iptvcanales.com/hls/redirect.php/shadow/J04/channel.php/live3/motogp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AMC HD
 http://200.89.190.163/live/live/AMCHD/SA_Live/AMCHD-audio_AACL_eng_144800_51=144800-video=3900000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AMC HD
 http://200.89.190.163/live/live/AMCHD/SA_Live/AMCHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AMC HD
+http://cdn.prepro.cvattv.com.ar/live/live/AMCHD/SA_Live/AMCHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN HD
@@ -89,6 +95,8 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(05)/index.
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(06)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO HD
 http://200.89.190.163/live/live/HBOHD/SA_Live/HBOHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO HD
+http://cdn.prepro.cvattv.com.ar/live/live/HBOHD/SA_Live/HBOHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO 2 HD
 http://gratis.iptvcanales.com/hls/redirect.php/shadow/HBO_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO 2 HD
@@ -175,10 +183,16 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(05)/ind
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(06)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Warner HD
 http://gratis.iptvcanales.com/hls/redirect.php/shadow/WARNER_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD [España]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AMC HD [España]
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/614/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN [España]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN [España]
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/610/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN White" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN White
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX [España]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Fox [España]
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life [España]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Fox Life [España]
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/601/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Accion" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Movistar Accion
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Movistar Comedia
@@ -261,6 +275,8 @@ http://gratis.iptvcanales.com/hls/redirect.php/shadow/ESPN_2_HD/index.m3u8
 http://gratis.iptvcanales.com/hls/redirect.php/shadow/FOX_SPORTS_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD" tvg-shift="" radio="" tvg-logo="" group-title="Deportes",FOX Sports HD
 http://gratis.iptvcanales.com/hls/redirect.php/shadow/FOX_SPORTS_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD" tvg-shift="" radio="" tvg-logo="" group-title="Deportes",FOX Sports HD
+http://cdn.prepro.cvattv.com.ar/live/live/FoxSports/SA_Live/FoxSports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD" tvg-shift="" radio="" tvg-logo="" group-title="Deportes",FOX Sports 2 HD
 http://gratis.iptvcanales.com/hls/redirect.php/shadow/FOX_SPORTS2_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-shift="" radio="" tvg-logo="" group-title="Deportes",FOX Sports 2 HD
@@ -271,8 +287,10 @@ http://gratis.iptvcanales.com/hls/redirect.php/shadow/FOX_SPORTS3_HD/Stream(04)/
 http://gratis.iptvcanales.com/hls/redirect.php/shadow/FOX_SPORTS3_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-shift="" radio="" tvg-logo="" group-title="Deportes",TyC Sports HD
 http://200.89.190.163/live/live/TyCSportHD/SA_Live/TyCSportHD-audio_AACL_spa_144800_50=144800-video=3900000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-shift="" radio="" tvg-logo="" group-title="Deportes",TyC Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-shift="" radio="" tvg-logo="" group-title="Deportes",TyC Sports [HD]
 http://200.89.190.163/live/live/TyCSportHD/SA_Live/TyCSportHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-shift="" radio="" tvg-logo="" group-title="Deportes",TyC Sports [HD]
+http://cdn.prepro.cvattv.com.ar/live/live/TyCSportHD/SA_Live/TyCSportHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Animax
 http://video7.stream.:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Boomerang
@@ -322,9 +340,17 @@ http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-shift="" radio="" tvg-logo="" group-title="Noticias",CNN
 http://gratis.iptvcanales.com/hls/redirect.php/shadow/CNN_INTERNACIONAL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena 3 [HD]" tvg-shift="" radio="" tvg-logo="" group-title="Internacionales",Antena 3 [HD]
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/615/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 [HD]" tvg-shift="" radio="" tvg-logo="" group-title="Internacionales",Antena 3 [HD]
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?www.tecnotv.info?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-shift="" radio="" tvg-logo="" group-title="Internacionales",Antena 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?www.tecnotv.info?time=1439881142212
+#EXTINF:-1 tvg-id="" tvg-name="Cuatro HD" tvg-shift="" radio="" tvg-logo="" group-title="Internacionales",Cuatro HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/616/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecinco HD" tvg-shift="" radio="" tvg-logo="" group-title="Internacionales",Telecinco HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/617/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Sexta HD" tvg-shift="" radio="" tvg-logo="" group-title="Internacionales",La Sexta HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/618/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La Sexta HD" tvg-shift="" radio="" tvg-logo="" group-title="Internacionales",La Sexta HD
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="La Sexta" tvg-shift="" radio="" tvg-logo="" group-title="Internacionales",La Sexta

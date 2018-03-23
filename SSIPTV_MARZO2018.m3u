@@ -49,6 +49,8 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(04)/index.
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(05)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Action
 http://gratis.iptvcanales.com/hls/redirect.php/asus/J04/channel.php/live1/foxaction/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Action HD
+http://gratis.iptvcanales.com/hls/redirect.php/asus/FOXACTION_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Cinema" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Cinema
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Cinema [HD]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Cinema [HD]

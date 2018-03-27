@@ -13,8 +13,6 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/inde
 http://gratis.iptvcanales.com/hls/redirect.php/dell/J04/channel.php/live3/motogp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AMC
 http://ragnaroktv.com/hls_live/kr/AMC_HD/MzI1MzQxsDAxMwAA/amc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AMC
-http://gratis.iptvcanales.com/hls/redirect.php/dell/J04/channel.php/live/amc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN
 http://gratis.iptvcanales.com/hls/redirect.php/dell/AXN_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN
@@ -27,9 +25,9 @@ http://ragnaroktv.com/hls_live/kr/CINECANAL_HD/MzI1MzQxsDAxMwAA/cinecanal.m3u8
 http://gratis.iptvcanales.com/hls/redirect.php/dell/CINECANAL_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Cinecanal HD
 http://gratis.iptvcanales.com/hls/redirect.php/dell/CINECANAL_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Cinemax (Mexico)
 http://gratis.iptvcanales.com/hls/redirect.php/dell/J04/channel.php/live1/cinemax/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Cinemax (Colombia)
 http://ragnaroktv.com/hls_live/kr/CINEMAX/MzI1MzQxsDAxMwAA/c1nemax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX HD
 http://ragnaroktv.com/hls_live/kr/FOX_HD/MzI1MzQxsDAxMwAA/f0x.m3u8
@@ -61,6 +59,10 @@ http://gratis.iptvcanales.com/hls/redirect.php/dell/FOX_CLASSICS_HD/Stream(04)/i
 http://gratis.iptvcanales.com/hls/redirect.php/dell/FOX_CLASSICS_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Comedy
 http://ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/MzI1MzQxsDAxMwAA/f0x_comedy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Comedy
+http://gratis.iptvcanales.com/hls/redirect.php/dell/FOX_COMEDY_HD/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Comedy HD
+http://gratis.iptvcanales.com/hls/redirect.php/dell/FOX_COMEDY_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Family [HD]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Family
 http://gratis.iptvcanales.com/hls/redirect.php/dell/FOXFAMILY_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Family [HD]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Family [HD]
@@ -111,7 +113,7 @@ http://gratis.iptvcanales.com/hls/redirect.php/dell/HBO_2_HD/index.m3u8
 http://gratis.iptvcanales.com/hls/redirect.php/dell/HBO_2_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO Family
 http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzI1MzQxsDAxMwAA/hb0fam.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO Plus SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO Plus
 http://ragnaroktv.com/hls_live/kr/HBO_PLUS_HD/MzI1MzQxsDAxMwAA/hboplus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO Plus
 http://gratis.iptvcanales.com/hls/redirect.php/dell/HBO_PLUS_HD/Stream(03)/index.m3u8
@@ -159,9 +161,7 @@ http://gratis.iptvcanales.com/hls/redirect.php/dell/SPACE_HD/Stream(03)/index.m3
 http://gratis.iptvcanales.com/hls/redirect.php/dell/SPACE_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Studio Universal
 http://ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/MzI1MzQxsDAxMwAA/stdio_univ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Sun Channel
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sundance TV HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Sundance TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Sundance TV
 http://gratis.iptvcanales.com/hls/redirect.php/dell/SUNDANCE_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sundance TV HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Sundance TV HD
 http://gratis.iptvcanales.com/hls/redirect.php/dell/SUNDANCE_HD/index.m3u8

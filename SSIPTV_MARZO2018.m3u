@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1 (HD)
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1 (HD)
+http://tvpremiumhd.club/lista-gratuita/rock/s752.ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1
@@ -9,6 +11,8 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/inde
 http://gratis.iptvcanales.com/hls/redirect.php/menendez/J02/channel.php/192.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP (HD)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP (HD)
+http://tvpremiumhd.club/lista-gratuita/rock/s713.ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP
 http://gratis.iptvcanales.com/hls/redirect.php/menendez/J04/channel.php/live3/motogp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AMC

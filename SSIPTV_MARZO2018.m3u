@@ -16,15 +16,15 @@ http://tvpremiumhd.club/lista-gratuita/pop/s713.ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/J04/channel.php/live3/motogp/playlist.m3u8
 #EXTINF:-1 tvg-id="ar_amc" tvg-name="AMC" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AMC
-http://ragnaroktv.com/hls_live/kr/AMC_HD/MzY0sjQzNDMzNwEA/amc.m3u8
+http://ragnaroktv.com/hls_live/kr/AMC_HD/MzI1MzQxsDAxMwAA/amc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/AXN_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN
-http://ragnaroktv.com/hls_live/kr/AXN_HD/MzY0sjQzNDMzNwEA/axn.m3u8
+http://ragnaroktv.com/hls_live/kr/AXN_HD/MzI1MzQxsDAxMwAA/axn.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/AXN_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Cinecanal
-http://ragnaroktv.com/hls_live/kr/CINECANAL_HD/MzY0sjQzNDMzNwEA/cinecanal.m3u8
+http://ragnaroktv.com/hls_live/kr/CINECANAL_HD/MzI1MzQxsDAxMwAA/cinecanal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Cinecanal
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/CINECANAL_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Cinecanal HD
@@ -32,17 +32,17 @@ http://gratis.iptvcanales.com/hls/redirect.php/sabado/CINECANAL_HD/Stream(04)/in
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Cinemax (Mexico)
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/J04/channel.php/live1/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Cinemax (Colombia)
-http://ragnaroktv.com/hls_live/kr/CINEMAX/MzY0sjQzNDMzNwEA/c1nemax.m3u8
+http://ragnaroktv.com/hls_live/kr/CINEMAX/MzI1MzQxsDAxMwAA/c1nemax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX HD
-http://ragnaroktv.com/hls_live/kr/FOX_HD/MzY0sjQzNDMzNwEA/f0x.m3u8
+http://ragnaroktv.com/hls_live/kr/FOX_HD/MzI1MzQxsDAxMwAA/f0x.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Action
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/FOXACTION_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Action
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/FOX_ACTION_MEXICO_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Action
-http://ragnaroktv.com/hls_live/kr/FOX_ACTION_MEXICO_HD/MzY0sjQzNDMzNwEA/fox_action_mx.m3u8
+http://ragnaroktv.com/hls_live/kr/FOX_ACTION_MEXICO_HD/MzI1MzQxsDAxMwAA/fox_action_mx.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Action
-http://ragnaroktv.com/hls_live/kr/FOXACTION_HD/MzY0sjQzNDMzNwEA/foxaction.m3u8
+http://ragnaroktv.com/hls_live/kr/FOXACTION_HD/MzI1MzQxsDAxMwAA/foxaction.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Action HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/FOXACTION_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Action HD
@@ -50,9 +50,9 @@ http://gratis.iptvcanales.com/hls/redirect.php/sabado/FOX_ACTION_MEXICO_HD/Strea
 #EXTINF:-1 tvg-id="" tvg-name="FOX Cinema" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Cinema
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/FOX_CINEMA_HD_SUB/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Cinema" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Cinema
-http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD/MzY0sjQzNDMzNwEA/f0x_cinema.m3u8
+http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD/MzI1MzQxsDAxMwAA/f0x_cinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Cinema" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Cinema
-http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD_SUB/MzY0sjQzNDMzNwEA/f0x_cinema_sub.m3u8
+http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD_SUB/MzI1MzQxsDAxMwAA/f0x_cinema_sub.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Cinema [HD]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Cinema [HD]
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/FOX_CINEMA_HD_SUB/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Classics" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Classics
@@ -62,7 +62,7 @@ http://gratis.iptvcanales.com/hls/redirect.php/sabado/FOX_CLASSICS_HD/Stream(04)
 #EXTINF:-1 tvg-id="" tvg-name="FOX Classics HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Classics HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/FOX_CLASSICS_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Comedy
-http://ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/MzY0sjQzNDMzNwEA/f0x_comedy.m3u8
+http://ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/MzI1MzQxsDAxMwAA/f0x_comedy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Comedy
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/FOX_COMEDY_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Comedy HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Comedy HD
@@ -72,23 +72,23 @@ http://gratis.iptvcanales.com/hls/redirect.php/sabado/FOXFAMILY_HD/Stream(03)/in
 #EXTINF:-1 tvg-id="" tvg-name="FOX Family [HD]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Family [HD]
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/FOXFAMILY_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Movies" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Movies
-http://ragnaroktv.com/hls_live/kr/FOXMOVIES_HD/MzY0sjQzNDMzNwEA/f0x_movies.m3u8
+http://ragnaroktv.com/hls_live/kr/FOXMOVIES_HD/MzI1MzQxsDAxMwAA/f0x_movies.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Movies" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Movies
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/FOXMOVIES_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Movies HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Movies HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/FOXMOVIES_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Series HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Series HD
-http://ragnaroktv.com/hls_live/kr/FOX1_HD/MzY0sjQzNDMzNwEA/f0x_series.m3u8
+http://ragnaroktv.com/hls_live/kr/FOX1_HD/MzI1MzQxsDAxMwAA/f0x_series.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FX
-http://ragnaroktv.com/hls_live/kr/FX_HD/MzY0sjQzNDMzNwEA/fx.m3u8
+http://ragnaroktv.com/hls_live/kr/FX_HD/MzI1MzQxsDAxMwAA/fx.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FX
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/FX_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FX HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/FX_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FXM
-http://ragnaroktv.com/hls_live/kr/THE_FILM_ZONE_HD/MzY0sjQzNDMzNwEA/fxm.m3u8
+http://ragnaroktv.com/hls_live/kr/THE_FILM_ZONE_HD/MzI1MzQxsDAxMwAA/fxm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden Plus" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Golden Plus
-http://ragnaroktv.com/hls_live/kr/GOLDEN_HD/MzY0sjQzNDMzNwEA/golden.m3u8
+http://ragnaroktv.com/hls_live/kr/GOLDEN_HD/MzI1MzQxsDAxMwAA/golden.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden Plus HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Golden Plus HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/GOLDEN_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden Premiere" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Golden Premiere
@@ -96,7 +96,7 @@ http://gratis.iptvcanales.com/hls/redirect.php/sabado/GOLDEN_PREMIER_HD/Stream(0
 #EXTINF:-1 tvg-id="" tvg-name="Golden Premiere HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Golden Premiere HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/GOLDEN_PREMIER_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO
-http://ragnaroktv.com/hls_live/kr/HBO_HD_SUB/MzY0sjQzNDMzNwEA/hbohd_sub.m3u8
+http://ragnaroktv.com/hls_live/kr/HBO_HD_SUB/MzI1MzQxsDAxMwAA/hbohd_sub.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/HBO_HD_SUB/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO HD
@@ -108,7 +108,7 @@ http://cdn.prepro.cvattv.com.ar/live/live/HBOHD/SA_Live/HBOHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO 2
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/HBO_2_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO 2
-http://ragnaroktv.com/hls_live/kr/HBO_2_HD/MzY0sjQzNDMzNwEA/hb02.m3u8
+http://ragnaroktv.com/hls_live/kr/HBO_2_HD/MzI1MzQxsDAxMwAA/hb02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO 2 HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/HBO_2_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO 2 HD
@@ -116,25 +116,25 @@ http://gratis.iptvcanales.com/hls/redirect.php/sabado/HBO_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO 2 HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/HBO_2_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO Family
-http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzY0sjQzNDMzNwEA/hb0fam.m3u8
+http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzI1MzQxsDAxMwAA/hb0fam.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO Plus
-http://ragnaroktv.com/hls_live/kr/HBO_PLUS_HD/MzY0sjQzNDMzNwEA/hboplus.m3u8
+http://ragnaroktv.com/hls_live/kr/HBO_PLUS_HD/MzI1MzQxsDAxMwAA/hboplus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO Plus
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/HBO_PLUS_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO Plus HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/HBO_PLUS_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO Signature
-http://ragnaroktv.com/hls_live/kr/HBO_SIGNATURE_HD/MzY0sjQzNDMzNwEA/hbosign.m3u8
+http://ragnaroktv.com/hls_live/kr/HBO_SIGNATURE_HD/MzI1MzQxsDAxMwAA/hbosign.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO Signature
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/HBO_SIGNATURE_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO Signature HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/HBO_SIGNATURE_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="I-Sat" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",I-Sat
-http://ragnaroktv.com/hls_live/kr/ISAT/MzY0sjQzNDMzNwEA/isat.m3u8
+http://ragnaroktv.com/hls_live/kr/ISAT/MzI1MzQxsDAxMwAA/isat.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="I-Sat" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",I-Sat
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/ISAT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX Prime" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",MAX Prime
-http://ragnaroktv.com/hls_live/kr/MAX_PRIME_HD/MzY0sjQzNDMzNwEA/m4x_prime.m3u8
+http://ragnaroktv.com/hls_live/kr/MAX_PRIME_HD/MzI1MzQxsDAxMwAA/m4x_prime.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX Prime" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",MAX Prime
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/MAX_PRIME_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX Prime [HD]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",MAX Prime [HD]
@@ -142,53 +142,53 @@ http://gratis.iptvcanales.com/hls/redirect.php/sabado/MAX_PRIME_HD/Stream(04)/in
 #EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",MAX UP
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/MAX_UP_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",MAX UP
-http://ragnaroktv.com/hls_live/kr/MAX_UP_HD/MzY0sjQzNDMzNwEA/m4xup.m3u8
+http://ragnaroktv.com/hls_live/kr/MAX_UP_HD/MzI1MzQxsDAxMwAA/m4xup.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX UP [HD]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",MAX UP [HD]
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/MAX_UP_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Paramount Channel
-http://ragnaroktv.com/hls_live/kr/PARAMOUNT_HD/MzY0sjQzNDMzNwEA/param.m3u8
+http://ragnaroktv.com/hls_live/kr/PARAMOUNT_HD/MzI1MzQxsDAxMwAA/param.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Paramount Channel
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/PARAMOUNT_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Paramount Channel HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/PARAMOUNT_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Sony
-http://ragnaroktv.com/hls_live/kr/SONY_HD/MzY0sjQzNDMzNwEA/sony.m3u8
+http://ragnaroktv.com/hls_live/kr/SONY_HD/MzI1MzQxsDAxMwAA/sony.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Sony
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/SONY_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Sony HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/SONY_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Space
-http://ragnaroktv.com/hls_live/kr/SPACE_HD/MzY0sjQzNDMzNwEA/space.m3u8
+http://ragnaroktv.com/hls_live/kr/SPACE_HD/MzI1MzQxsDAxMwAA/space.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Space
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/SPACE_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Space HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/SPACE_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Studio Universal
-http://ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/MzY0sjQzNDMzNwEA/stdio_univ.m3u8
+http://ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/MzI1MzQxsDAxMwAA/stdio_univ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Sundance TV
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/SUNDANCE_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sundance TV HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Sundance TV HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/SUNDANCE_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",TBS
-http://ragnaroktv.com/hls_live/kr/TBS_HD/MzY0sjQzNDMzNwEA/tbs.m3u8
+http://ragnaroktv.com/hls_live/kr/TBS_HD/MzI1MzQxsDAxMwAA/tbs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",TCM
-http://ragnaroktv.com/hls_live/kr/TCM/MzY0sjQzNDMzNwEA/tcm.m3u8
+http://ragnaroktv.com/hls_live/kr/TCM/MzI1MzQxsDAxMwAA/tcm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",TCM
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/TCM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",TNT
-http://ragnaroktv.com/hls_live/kr/TNT_HD/MzY0sjQzNDMzNwEA/tnt.m3u8
+http://ragnaroktv.com/hls_live/kr/TNT_HD/MzI1MzQxsDAxMwAA/tnt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",TNT
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/J04/channel.php/live1/tntlatino/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",TNT Series
-http://ragnaroktv.com/hls_live/kr/TNT_SERIES_HD/MzY0sjQzNDMzNwEA/tnt_ser.m3u8
+http://ragnaroktv.com/hls_live/kr/TNT_SERIES_HD/MzI1MzQxsDAxMwAA/tnt_ser.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",TNT Series
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/TNT_SERIES_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",TNT Series HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/TNT_SERIES_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Universal Channel
-http://ragnaroktv.com/hls_live/kr/UNIVERSAL_CHANNEL/MzY0sjQzNDMzNwEA/univers.m3u8
+http://ragnaroktv.com/hls_live/kr/UNIVERSAL_CHANNEL/MzI1MzQxsDAxMwAA/univers.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Warner Channel
-http://ragnaroktv.com/hls_live/kr/WARNER_HD/MzY0sjQzNDMzNwEA/warner.m3u8
+http://ragnaroktv.com/hls_live/kr/WARNER_HD/MzI1MzQxsDAxMwAA/warner.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Warner Channel
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/WARNER_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Warner HD
@@ -210,11 +210,11 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/inde
 #EXTINF:-1 tvg-id="" tvg-name="Movistar DCine" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Movistar DCine
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Animal Planet
-http://ragnaroktv.com/hls_live/kr/ANIMAL_PLANET_HD/MzY0sjQzNDMzNwEA/anim_planet.m3u8
+http://ragnaroktv.com/hls_live/kr/ANIMAL_PLANET_HD/MzI1MzQxsDAxMwAA/anim_planet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",AE
-http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/MzY0sjQzNDMzNwEA/aehd.m3u8
+http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/MzI1MzQxsDAxMwAA/aehd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Comedy Central
-http://ragnaroktv.com/hls_live/kr/COMEDY_CENTRAL_HD/MzY0sjQzNDMzNwEA/cc.m3u8
+http://ragnaroktv.com/hls_live/kr/COMEDY_CENTRAL_HD/MzI1MzQxsDAxMwAA/cc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Discovery Channel
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/DISCOVERY_CHANNEL_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Discovery Channel HD
@@ -224,29 +224,29 @@ http://gratis.iptvcanales.com/hls/redirect.php/sabado/DISCOVERY_CHANNEL_HD/index
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Discovery Civilization
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/DISCOVERY_CIVILIZATION/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Discovery Civilization
-http://ragnaroktv.com/hls_live/kr/DISCOVERY_CIVILIZATION/MzY0sjQzNDMzNwEA/disc_civil.m3u8
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_CIVILIZATION/MzI1MzQxsDAxMwAA/disc_civil.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Discovery Science
-http://ragnaroktv.com/hls_live/kr/DISCOVERY_SCIENCE/MzY0sjQzNDMzNwEA/disc_science.m3u8
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_SCIENCE/MzI1MzQxsDAxMwAA/disc_science.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Discovery Science
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/DISCOVERY_SCIENCE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Discovery Theater
-http://ragnaroktv.com/hls_live/kr/DISCOVERY_THEATER_HD/MzY0sjQzNDMzNwEA/theater.m3u8
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_THEATER_HD/MzI1MzQxsDAxMwAA/theater.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Discovery Turbo
-http://ragnaroktv.com/hls_live/kr/DISCOVERY_TURBO/MzY0sjQzNDMzNwEA/disc_turbo.m3u8
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_TURBO/MzI1MzQxsDAxMwAA/disc_turbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Discovery World HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/DISCOVERY_WORLD_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Discovery World HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/DISCOVERY_WORLD_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",History
-http://ragnaroktv.com/hls_live/kr/HISTORY_CHANNEL_HD/MzY0sjQzNDMzNwEA/history.m3u8
+http://ragnaroktv.com/hls_live/kr/HISTORY_CHANNEL_HD/MzI1MzQxsDAxMwAA/history.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",History
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/HISTORY_CHANNEL_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",History HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/HISTORY_CHANNEL_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="H2" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",H2
-http://ragnaroktv.com/hls_live/kr/H2/MzY0sjQzNDMzNwEA/h2.m3u8
+http://ragnaroktv.com/hls_live/kr/H2/MzI1MzQxsDAxMwAA/h2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Investigation Discovery
-http://ragnaroktv.com/hls_live/kr/ID_HD/MzY0sjQzNDMzNwEA/idhd.m3u8
+http://ragnaroktv.com/hls_live/kr/ID_HD/MzI1MzQxsDAxMwAA/idhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Investigation Discovery
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/ID_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery [HD]" tvg-shift="" radio="" tvg-logo="" group-title="Entretenimiento",Investigation Discovery [HD]
@@ -294,7 +294,7 @@ http://video7.stream.:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?ch
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Baby TV
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/BABYTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Boomerang
-http://ragnaroktv.com/hls_live/kr/BOOMERANG/MzY0sjQzNDMzNwEA/boomerang.m3u8
+http://ragnaroktv.com/hls_live/kr/BOOMERANG/MzI1MzQxsDAxMwAA/boomerang.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Cartoon Network
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/CARTOON_NETWORK_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Cartoon Network HD
@@ -310,9 +310,9 @@ http://gratis.iptvcanales.com/hls/redirect.php/sabado/DISNEY_HD/Stream(04)/index
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Disney Channel HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/DISNEY_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Disney Junior
-http://ragnaroktv.com/hls_live/kr/DISNEY_JR/MzY0sjQzNDMzNwEA/d1sneyjr.m3u8
+http://ragnaroktv.com/hls_live/kr/DISNEY_JR/MzI1MzQxsDAxMwAA/d1sneyjr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Disney XD
-http://ragnaroktv.com/hls_live/kr/DISNEY_XD/MzY0sjQzNDMzNwEA/d1sneyxd.m3u8
+http://ragnaroktv.com/hls_live/kr/DISNEY_XD/MzI1MzQxsDAxMwAA/d1sneyxd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Nickelodeon HD
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/NICKELODEON_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Nickelodeon HD
@@ -328,7 +328,7 @@ http://gratis.iptvcanales.com/hls/redirect.php/sabado/NICK_JR_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Locomotion" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Tooncast
-http://ragnaroktv.com/hls_live/kr/TOONCAST/MzY0sjQzNDMzNwEA/tooncast.m3u8
+http://ragnaroktv.com/hls_live/kr/TOONCAST/MzI1MzQxsDAxMwAA/tooncast.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Tooncast
 http://gratis.iptvcanales.com/hls/redirect.php/sabado/TOONCAST/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Simpsons 24/7" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",The Simpsons 24/7

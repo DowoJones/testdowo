@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1 (HD)
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1 (HD)
-http://tvpremiumhd.club/lista-gratuita/pop/s752.ts
+http://tvpremiumhd.club/lista-gratuita/onix/s752.ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1
@@ -12,7 +12,7 @@ http://gratis.iptvcanales.com/hls/redirect.php/ciel/J02/channel.php/192.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP (HD)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP (HD)
-http://tvpremiumhd.club/lista-gratuita/pop/s713.ts
+http://tvpremiumhd.club/lista-gratuita/onix/s713.ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP
 http://gratis.iptvcanales.com/hls/redirect.php/ciel/J04/channel.php/live3/motogp/playlist.m3u8
 #EXTINF:-1 tvg-id="ar_amc" tvg-name="AMC" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AMC
@@ -101,10 +101,6 @@ http://ragnaroktv.com/hls_live/kr/HBO_HD_SUB/MzI1MzQxsDAxMwAA/hbohd_sub.m3u8
 http://gratis.iptvcanales.com/hls/redirect.php/ciel/HBO_HD_SUB/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO HD
 http://gratis.iptvcanales.com/hls/redirect.php/ciel/HBO_HD_SUB/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO HD
-http://200.89.190.163/live/live/HBOHD/SA_Live/HBOHD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO HD
-http://cdn.prepro.cvattv.com.ar/live/live/HBOHD/SA_Live/HBOHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO 2
 http://gratis.iptvcanales.com/hls/redirect.php/ciel/HBO_2_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",HBO 2

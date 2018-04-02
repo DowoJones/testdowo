@@ -1,21 +1,12 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1 (HD)
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1 (HD)
-http://tvpremiumhd.club/lista-gratuita/onix/s752.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1
-http://gratis.iptvcanales.com/hls/redirect.php/adata/J02/channel.php/192.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP (HD)
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP (HD)
-http://tvpremiumhd.club/lista-gratuita/onix/s713.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP
-http://gratis.iptvcanales.com/hls/redirect.php/adata/J04/channel.php/live3/motogp/playlist.m3u8
+
+#EXTINF:-1,------LA LISTA DE CANALES------
+
+#EXTINF:-1,------SE IRA ACTUALIZANDO------
+
+#EXTINF:-1,------SI ALGUN CANAL FALLA ESPERAR-------
+
+
 #EXTINF:-1 tvg-id="ar_amc" tvg-name="AMC" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AMC
 http://ragnaroktv.com/hls_live/kr/AMC_HD/MzI1MzQxsDAxMwAA/amc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN
@@ -280,6 +271,22 @@ http://gratis.iptvcanales.com/hls/redirect.php/adata/FOX_SPORTS2_HD/index.m3u8
 http://gratis.iptvcanales.com/hls/redirect.php/adata/FOX_SPORTS3_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD" tvg-shift="" radio="" tvg-logo="" group-title="Deportes",FOX Sports 3 HD
 http://gratis.iptvcanales.com/hls/redirect.php/adata/FOX_SPORTS3_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1 (HD)
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1 (HD)
+http://tvpremiumhd.club/lista-gratuita/onix/s752.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar F1
+http://gratis.iptvcanales.com/hls/redirect.php/adata/J02/channel.php/192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP (HD)
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP (HD)
+http://tvpremiumhd.club/lista-gratuita/onix/s713.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="" group-title="F1",Movistar MotoGP
+http://gratis.iptvcanales.com/hls/redirect.php/adata/J04/channel.php/live3/motogp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-shift="" radio="" tvg-logo="" group-title="Deportes",TyC Sports HD
 http://200.89.190.163/live/live/TyCSportHD/SA_Live/TyCSportHD-audio_AACL_spa_144800_50=144800-video=3900000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-shift="" radio="" tvg-logo="" group-title="Deportes",TyC Sports [HD]

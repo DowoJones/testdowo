@@ -287,6 +287,8 @@ http://200.89.190.163/live/live/TyCSportHD/SA_Live/TyCSportHD-audio_AACL_spa_144
 http://200.89.190.163/live/live/TyCSportHD/SA_Live/TyCSportHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-shift="" radio="" tvg-logo="" group-title="Deportes",TyC Sports HD (Opc.3)
 http://cdn.prepro.cvattv.com.ar/live/live/TyCSportHD/SA_Live/TyCSportHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Univision Deportes HD" tvg-shift="" radio="" tvg-logo="" group-title="Deportes",Univision Deportes HD
+http://tvpremiumhd.club/lista-gratuita/fox/univisiond28.ts
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Animax
 http://video7.stream.:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-shift="" radio="" tvg-logo="" group-title="Infantiles",Baby TV

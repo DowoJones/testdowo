@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ar_amc" tvg-name="ar_amc" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AMC
+#EXTINF:-1 tvg-id="ar_amc" tvg-name="ar_amc" tvg-shift="" radio="" tvg-logo="https://www.claro.com.co/portal/recursos/co/gc/imagenes/1471901933899-Imagen.png" group-title="Peliculas/Series",AMC
 http://ragnaroktv.com/hls_live/kr/AMC_HD/MzI1MzQxsDAxMwAA/amc.m3u8
-#EXTINF:-1 tvg-id="ar_amc" tvg-name="ar_amc" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AMC HD
+#EXTINF:-1 tvg-id="ar_amc" tvg-name="ar_amc" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_hd_latinoamerica-mediano.png" group-title="Peliculas/Series",AMC HD
 http://tvpremiumhd.club/lista-gratuita/fox/s189.ts
-#EXTINF:-1 tvg-id="ar_axn" tvg-name="ar_axn" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN (Opc.1)
+#EXTINF:-1 tvg-id="ar_axn" tvg-name="ar_axn" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="Peliculas/Series",AXN (Opc.1)
 http://gratis.iptvcanales.com/hls/redirect.php/adata/AXN_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="ar_axn" tvg-name="ar_axn" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN (Opc.2)
+#EXTINF:-1 tvg-id="ar_axn" tvg-name="ar_axn" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="Peliculas/Series",AXN (Opc.2)
 http://ragnaroktv.com/hls_live/kr/AXN_HD/MzI1MzQxsDAxMwAA/axn.m3u8
-#EXTINF:-1 tvg-id="ar_axn" tvg-name="ar_axn" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN HD
+#EXTINF:-1 tvg-id="ar_axn" tvg-name="ar_axn" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn_hd-mediano.png" group-title="Peliculas/Series",AXN HD
 http://gratis.iptvcanales.com/hls/redirect.php/adata/AXN_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/cinecanal-mediano.png" group-title="Peliculas/Series",Cinecanal (Opc.1)
 http://ragnaroktv.com/hls_live/kr/CINECANAL_HD/MzI1MzQxsDAxMwAA/cinecanal.m3u8

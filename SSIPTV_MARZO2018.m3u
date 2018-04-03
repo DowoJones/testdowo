@@ -21,37 +21,37 @@ http://gratis.iptvcanales.com/hls/redirect.php/adata/J04/channel.php/live1/cinem
 http://ragnaroktv.com/hls_live/kr/CINEMAX/MzI1MzQxsDAxMwAA/c1nemax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_hd-mediano.png" group-title="Peliculas/Series",FOX HD
 http://ragnaroktv.com/hls_live/kr/FOX_HD/MzI1MzQxsDAxMwAA/f0x.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Action
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action_hd-mediano.png" tvg-logo="" group-title="Peliculas/Series",FOX Action
 http://gratis.iptvcanales.com/hls/redirect.php/adata/FOXACTION_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Action
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action_hd-mediano.png" group-title="Peliculas/Series",FOX Action
 http://gratis.iptvcanales.com/hls/redirect.php/adata/FOX_ACTION_MEXICO_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Action
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action_hd-mediano.png" group-title="Peliculas/Series",FOX Action
 http://ragnaroktv.com/hls_live/kr/FOX_ACTION_MEXICO_HD/MzI1MzQxsDAxMwAA/fox_action_mx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Action
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action_hd-mediano.png" group-title="Peliculas/Series",FOX Action
 http://ragnaroktv.com/hls_live/kr/FOXACTION_HD/MzI1MzQxsDAxMwAA/foxaction.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Action HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Action HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action HD" tvg-shift="" radio="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1561.png.071535640ed34fa4826d5558d281000d.png" group-title="Peliculas/Series",FOX Action HD
 http://gratis.iptvcanales.com/hls/redirect.php/adata/FOXACTION_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Action HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Action HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action HD" tvg-shift="" radio="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1561.png.071535640ed34fa4826d5558d281000d.png" group-title="Peliculas/Series",FOX Action HD
 http://gratis.iptvcanales.com/hls/redirect.php/adata/FOX_ACTION_MEXICO_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Cinema" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Cinema
+#EXTINF:-1 tvg-id="" tvg-name="FOX Cinéma" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_cinema-mediano.png" group-title="Peliculas/Series",FOX Cinéma
 http://gratis.iptvcanales.com/hls/redirect.php/adata/FOX_CINEMA_HD_SUB/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Cinema" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Cinema
+#EXTINF:-1 tvg-id="" tvg-name="FOX Cinéma" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_cinema-mediano.png" group-title="Peliculas/Series",FOX Cinéma
 http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD/MzI1MzQxsDAxMwAA/f0x_cinema.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Cinema" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Cinema
+#EXTINF:-1 tvg-id="" tvg-name="FOX Cinéma" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_cinema-mediano.png" group-title="Peliculas/Series",FOX Cinéma
 http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD_SUB/MzI1MzQxsDAxMwAA/f0x_cinema_sub.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Cinema [HD]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Cinema [HD]
+#EXTINF:-1 tvg-id="" tvg-name="FOX Cinéma [HD]" tvg-shift="" radio="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1562.png.d403a0581ddbd543e2f930ada659c984.png" group-title="Peliculas/Series",FOX Cinéma [HD]
 http://gratis.iptvcanales.com/hls/redirect.php/adata/FOX_CINEMA_HD_SUB/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Classics" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Classics
+#EXTINF:-1 tvg-id="" tvg-name="FOX Classics" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_classics-mediano.png" group-title="Peliculas/Series",FOX Classics
 http://gratis.iptvcanales.com/hls/redirect.php/adata/FOX_CLASSICS_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Classics HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Classics HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX Classics HD" tvg-shift="" radio="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.581258075f10c_FoxClassicsHD.png.282493f090b1e985a280f9cff4b6cf4b.png" group-title="Peliculas/Series",FOX Classics HD
 http://gratis.iptvcanales.com/hls/redirect.php/adata/FOX_CLASSICS_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Classics HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Classics HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX Classics HD" tvg-shift="" radio="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.581258075f10c_FoxClassicsHD.png.282493f090b1e985a280f9cff4b6cf4b.png" group-title="Peliculas/Series",FOX Classics HD
 http://gratis.iptvcanales.com/hls/redirect.php/adata/FOX_CLASSICS_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Comedy
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_comedy-mediano.png" group-title="Peliculas/Series",FOX Comedy
 http://ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/MzI1MzQxsDAxMwAA/f0x_comedy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Comedy
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_comedy-mediano.png" group-title="Peliculas/Series",FOX Comedy
 http://gratis.iptvcanales.com/hls/redirect.php/adata/FOX_COMEDY_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Comedy HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy HD" tvg-shift="" radio="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1557.png.9db978d5212d1e869171b7207529ab57.png" group-title="Peliculas/Series",FOX Comedy HD
 http://gratis.iptvcanales.com/hls/redirect.php/adata/FOX_COMEDY_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Family [HD]" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",FOX Family
 http://gratis.iptvcanales.com/hls/redirect.php/adata/FOXFAMILY_HD/Stream(03)/index.m3u8

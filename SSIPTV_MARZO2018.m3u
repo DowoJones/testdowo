@@ -9,11 +9,11 @@ http://gratis.iptvcanales.com/hls/redirect.php/adata/AXN_HD/Stream(03)/index.m3u
 http://ragnaroktv.com/hls_live/kr/AXN_HD/MzI1MzQxsDAxMwAA/axn.m3u8
 #EXTINF:-1 tvg-id="ar_axn" tvg-name="ar_axn" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",AXN HD
 http://gratis.iptvcanales.com/hls/redirect.php/adata/AXN_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Cinecanal (Opc.1)
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/cinecanal-mediano.png" group-title="Peliculas/Series",Cinecanal (Opc.1)
 http://ragnaroktv.com/hls_live/kr/CINECANAL_HD/MzI1MzQxsDAxMwAA/cinecanal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Cinecanal (Opc.2)
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/cinecanal-mediano.png" group-title="Peliculas/Series",Cinecanal (Opc.2)
 http://gratis.iptvcanales.com/hls/redirect.php/adata/CINECANAL_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Cinecanal HD
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-shift="" radio="" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580335989-Imagen.png" group-title="Peliculas/Series",Cinecanal HD
 http://gratis.iptvcanales.com/hls/redirect.php/adata/CINECANAL_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-shift="" radio="" tvg-logo="" group-title="Peliculas/Series",Cinemax (Mexico)
 http://gratis.iptvcanales.com/hls/redirect.php/adata/J04/channel.php/live1/cinemax/playlist.m3u8

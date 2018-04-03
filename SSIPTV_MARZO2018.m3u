@@ -325,9 +325,9 @@ http://gratis.iptvcanales.com/hls/redirect.php/epura/NICK_JR_HD/Stream(04)/index
 http://gratis.iptvcanales.com/hls/redirect.php/epura/NICK_JR_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Locomotion" tvg-shift="" radio="" tvg-logo=https://vignette.wikia.nocookie.net/logopedia/images/6/6d/LocomotionGrande.jpg/revision/latest?cb=20160317182756"" group-title="Infantiles",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-shift="" radio="https://imagenes.gatotv.com/logos/canales/tooncast-mediano.png" tvg-logo="" group-title="Infantiles",Tooncast (Opc.1)
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tooncast-mediano.png" group-title="Infantiles",Tooncast (Opc.1)
 http://ragnaroktv.com/hls_live/kr/TOONCAST/MzI1MzQxsDAxMwAA/tooncast.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-shift="" radio="https://imagenes.gatotv.com/logos/canales/tooncast-mediano.png" tvg-logo="" group-title="Infantiles",Tooncast (Opc.2)
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tooncast-mediano.png" group-title="Infantiles",Tooncast (Opc.2)
 http://gratis.iptvcanales.com/hls/redirect.php/epura/TOONCAST/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Simpsons 24/7" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Simpsons_FamilyPicture.png/220px-Simpsons_FamilyPicture.png" group-title="Infantiles",The Simpsons 24/7
 https://59583158c050f.streamlock.net:443/7186/7186/playlist.m3u8

@@ -263,9 +263,9 @@ http://cdn.prepro.cvattv.com.ar/live/live/FoxSports/SA_Live/FoxSports.m3u8
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_SPORTS2_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox_sports_2_hd-mediano.png" group-title="Deportes",FOX Sports 2 HD (Opc.2)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_SPORTS2_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD" tvg-shift="" radio="" tvg-logo="https://puu.sh/mbLmr/bfa50e6e5c.png" group-title="Deportes",FOX Sports 3 HD (Opc.1)
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/JGMyPY6.png" group-title="Deportes",FOX Sports 3 HD (Opc.1)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_SPORTS3_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD" tvg-shift="" radio="" tvg-logo="https://puu.sh/mbLmr/bfa50e6e5c.png" group-title="Deportes",FOX Sports 3 HD (Opc.2)
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/JGMyPY6.png" group-title="Deportes",FOX Sports 3 HD (Opc.2)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_SPORTS3_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports PREMIUM" tvg-shift="" radio="" tvg-logo="https://puu.sh/xTXkN/af837fadb2.png" group-title="Deportes",FOX Sports PREMIUM
 http://usuarios.club/usuarios/src5/FoxSportsPremium/iptv/club.m3u8

@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="ar_amc" tvg-name="ar_amc" tvg-shift="" radio="" tvg-logo="https://www.claro.com.co/portal/recursos/co/gc/imagenes/1471901933899-Imagen.png" group-title="Peliculas/Series",AMC
 http://ragnaroktv.com/hls_live/kr/AMC_HD/MzI1MzQxsDAxMwAA/amc.m3u8
 #EXTINF:-1 tvg-id="ar_amc" tvg-name="ar_amc" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_hd_latinoamerica-mediano.png" group-title="Peliculas/Series",AMC HD
-http://tvpremiumhd.club/lista-gratuita/fox/s189.ts
+http://tvpremiumhd.club/lista-gratuita/tnt/s189.ts
 #EXTINF:-1 tvg-id="ar_axn" tvg-name="ar_axn" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="Peliculas/Series",AXN (Opc.1)
 http://gratis.iptvcanales.com/hls/redirect.php/epura/AXN_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="ar_axn" tvg-name="ar_axn" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="Peliculas/Series",AXN (Opc.2)
@@ -270,7 +270,7 @@ http://gratis.iptvcanales.com/hls/redirect.php/epura/FOX_SPORTS3_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-shift="" radio="" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (HD) (Opc.1)
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-shift="" radio="" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (HD) (Opc.2)
-http://tvpremiumhd.club/lista-gratuita/fox/s752.ts
+http://tvpremiumhd.club/lista-gratuita/tnt/s752.ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (Opc.1)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (Opc.2)
@@ -282,7 +282,7 @@ http://reloadednow.com:2086/live/palamara/palamara/421.ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/2000px-Movistar_Moto_GP.svg.png" group-title="F1",Movistar MotoGP (HD) (Opc.1)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/2000px-Movistar_Moto_GP.svg.png" group-title="F1",Movistar MotoGP (HD) (Opc.2)
-http://tvpremiumhd.club/lista-gratuita/fox/s713.ts
+http://tvpremiumhd.club/lista-gratuita/tnt/s713.ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/2000px-Movistar_Moto_GP.svg.png" group-title="F1",Movistar MotoGP
 http://gratis.iptvcanales.com/hls/redirect.php/epura/J04/channel.php/live3/motogp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-shift="" radio="" tvg-logo="http://edant.ole.com.ar/diario/2009/02/02/polideportivo/fotos/1768837-1.jpg" group-title="Deportes",TyC Sports HD (Opc.1)
@@ -292,7 +292,7 @@ http://200.89.190.163/live/live/TyCSportHD/SA_Live/TyCSportHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-shift="" radio="" tvg-logo="http://edant.ole.com.ar/diario/2009/02/02/polideportivo/fotos/1768837-1.jpg" group-title="Deportes",TyC Sports HD (Opc.3)
 http://cdn.prepro.cvattv.com.ar/live/live/TyCSportHD/SA_Live/TyCSportHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Univision Deportes HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/udn_univision_deportes_network-mediano.png" group-title="Deportes",Univision Deportes HD (Ops.1)
-http://tvpremiumhd.club/lista-gratuita/fox/univisiond28.ts
+http://tvpremiumhd.club/lista-gratuita/tnt/univisiond28.ts
 #EXTINF:-1 tvg-id="" tvg-name="Univision Deportes HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/udn_univision_deportes_network-mediano.png" group-title="Deportes",Univision Deportes HD (Opc.2)
 http://reloadednow.com:2086/live/palamara/palamara/232.ts
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/animax.png" group-title="Infantiles",Animax

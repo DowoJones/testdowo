@@ -272,10 +272,12 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/inde
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-shift="" radio="" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (HD) (Opc.2)
 http://tvpremiumhd.club/lista-gratuita/tnt/s752.ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (Opc.1)
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/J04/channel.php/live3/formula1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (Opc.2)
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (Opc.3)
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-shift="" radio="" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (Opc.4)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/J02/channel.php/192.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY Sports F1" tvg-shift="" radio="" tvg-logo="https://img.day.az/2016/06/17/skysports_f1.jpg" group-title="F1",SKY SPORTS F1
 http://reloadednow.com:2086/live/palamara/palamara/421.ts
@@ -299,8 +301,10 @@ http://reloadednow.com:2086/live/palamara/palamara/232.ts
 http://video7.stream.:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/baby_tv.png" group-title="Infantiles",Baby TV
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/BABYTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang-mediano.png" group-title="Infantiles",Boomerang
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang-mediano.png" group-title="Infantiles",Boomerang (Opc.1)
 http://ragnaroktv.com/hls_live/kr/BOOMERANG/MzI1MzQxsDAxMwAA/boomerang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang-mediano.png" group-title="Infantiles",Boomerang (Opc-2)
+http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantiles",Cartoon Network
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/CARTOON_NETWORK_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantiles",Cartoon Network HD (Opc.1)

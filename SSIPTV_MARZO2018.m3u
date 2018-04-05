@@ -221,6 +221,8 @@ http://ragnaroktv.com/hls_live/kr/DISCOVERY_SCIENCE/MzI1MzQxsDAxMwAA/disc_scienc
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/DISCOVERY_SCIENCE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/discovery_theater_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Theater
 http://ragnaroktv.com/hls_live/kr/DISCOVERY_THEATER_HD/MzI1MzQxsDAxMwAA/theater.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-shift="" radio="" tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="Entretenimiento",Discovery Theater HD
+http://usuarios.club/usuarios/src2/DISCOVERY_THEATER_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Turbo
 http://ragnaroktv.com/hls_live/kr/DISCOVERY_TURBO/MzI1MzQxsDAxMwAA/disc_turbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery World HD (Opc.1)

@@ -355,8 +355,10 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 http://ragnaroktv.com/hls_live/kr/TOONCAST/MzI1MzQxsDAxMwAA/tooncast.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tooncast-mediano.png" group-title="Infantiles",Tooncast (Opc.2)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/TOONCAST/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-shift="" radio="" tvg-logo="https://pm1.narvii.com/6438/7185543f9e4ed7ea886542e09963b993bfa83c8e_128.jpg" group-title="Infantiles",Chespirito 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Chapulin Colorado 24/7" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/yLI6dqa_aAI/hqdefault.jpg" group-title="Infantiles",Chapulin Colorado 24/7
 http://usuarios.club/usuarios/src3/ChapulinColorado/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito 24/7" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/soduTifW-oI/maxresdefault.jpg" group-title="Infantiles",Chespirito 24/7
+http://usuarios.club/usuarios/src3/Chespirito/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Simpsons 24/7" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Simpsons_FamilyPicture.png/220px-Simpsons_FamilyPicture.png" group-title="Infantiles",The Simpsons 24/7
 https://59583158c050f.streamlock.net:443/7186/7186/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Simpsons Capitulos" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Simpsons_FamilyPicture.png/220px-Simpsons_FamilyPicture.png" group-title="Infantiles",The Simpsons Random

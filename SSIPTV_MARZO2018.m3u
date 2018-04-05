@@ -25,8 +25,10 @@ http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/J04/channel.php/live1/
 http://ragnaroktv.com/hls_live/kr/CINEMAX/MzI1MzQxsDAxMwAA/c1nemax.m3u8
 #EXTINF:-1 tvg-id="ar_cinemax" tvg-name="ar_cinemax" tvg-shift="" radio="" tvg-logo="https://ia800603.us.archive.org/7/items/CinemaxHd/cinemax%20hd.png" group-title="Peliculas/Series",Cinemax HD
 http://reloadednow.com:2086/live/palamara/palamara/275.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_hd-mediano.png" group-title="Peliculas/Series",FOX HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox-mediano.png" group-title="Peliculas/Series",FOX
 http://ragnaroktv.com/hls_live/kr/FOX_HD/MzI1MzQxsDAxMwAA/f0x.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_hd-mediano.png" group-title="Peliculas/Series",FOX HD
+http://usuarios.club/usuarios/src2/FOX_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action_hd-mediano.png" group-title="Peliculas/Series",FOX Premium Action (Opc.1)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOXACTION_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action_hd-mediano.png" group-title="Peliculas/Series",FOX Premium Action (Opc.2)
@@ -36,7 +38,7 @@ http://ragnaroktv.com/hls_live/kr/FOX_ACTION_MEXICO_HD/MzI1MzQxsDAxMwAA/fox_acti
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action_hd-mediano.png" group-title="Peliculas/Series",FOX Premium Action (Opc.4)
 http://ragnaroktv.com/hls_live/kr/FOXACTION_HD/MzI1MzQxsDAxMwAA/foxaction.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action HD" tvg-shift="" radio="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1561.png.071535640ed34fa4826d5558d281000d.png" group-title="Peliculas/Series",FOX Premium Action HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOXACTION_HD/Stream(04)/index.m3u8
+http://usuarios.club/usuarios/src2/FOXACTION_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action HD" tvg-shift="" radio="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1561.png.071535640ed34fa4826d5558d281000d.png" group-title="Peliculas/Series",FOX Premium Action HD (Opc.2)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_ACTION_MEXICO_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Cinéma" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_cinema-mediano.png" group-title="Peliculas/Series",FOX Premium Cinéma (Opc.1)
@@ -52,7 +54,7 @@ http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_CLASSICS_HD/Stream
 #EXTINF:-1 tvg-id="" tvg-name="FOX Classics HD" tvg-shift="" radio="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.581258075f10c_FoxClassicsHD.png.282493f090b1e985a280f9cff4b6cf4b.png" group-title="Peliculas/Series",FOX Premium Classics HD (Opc.1)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_CLASSICS_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Classics HD" tvg-shift="" radio="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.581258075f10c_FoxClassicsHD.png.282493f090b1e985a280f9cff4b6cf4b.png" group-title="Peliculas/Series",FOX Premium Classics HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_CLASSICS_HD/index.m3u8
+http://usuarios.club/usuarios/src2/FOX_CLASSICS_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_comedy-mediano.png" group-title="Peliculas/Series",FOX Premium Comedy (Opc.1)
 http://ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/MzI1MzQxsDAxMwAA/f0x_comedy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_comedy-mediano.png" group-title="Peliculas/Series",FOX Premium Comedy (Opc.2)
@@ -79,6 +81,8 @@ http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FX_HD/Stream(03)/index
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FX_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fxm_panregional-mediano.png" group-title="Peliculas/Series",FXM
 http://ragnaroktv.com/hls_live/kr/THE_FILM_ZONE_HD/MzI1MzQxsDAxMwAA/fxm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fxm_panregional-mediano.png" group-title="Peliculas/Series",FXM HD
+http://usuarios.club/usuarios/src2/THE_FILM_ZONE_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden Plus" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="Peliculas/Series",Golden Plus
 http://ragnaroktv.com/hls_live/kr/GOLDEN_HD/MzI1MzQxsDAxMwAA/golden.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden Plus HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_hd.png" group-title="Peliculas/Series",Golden Plus HD
@@ -151,7 +155,9 @@ http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/SONY_HD/Stream(04)/ind
 http://ragnaroktv.com/hls_live/kr/SPACE_HD/MzI1MzQxsDAxMwAA/space.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/space-mediano.png" group-title="Peliculas/Series",Space (Opc.2)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/SPACE_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space_hd.png" group-title="Peliculas/Series",Space HD
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space_hd.png" group-title="Peliculas/Series",Space HD (Opc.1)
+http://usuarios.club/usuarios/src2/SPACE_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space_hd.png" group-title="Peliculas/Series",Space HD (Ops.2)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/SPACE_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png" group-title="Peliculas/Series",Studio Universal
 http://ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/MzI1MzQxsDAxMwAA/stdio_univ.m3u8
@@ -159,8 +165,12 @@ http://ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/MzI1MzQxsDAxMwAA/stdio_univ.m
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/SUNDANCE_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sundance TV HD" tvg-shift="" radio="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58ef8ce1046f9_SundanceTVHD.png.fa6ea95c5674ad3a8f467e1ffd4b4935.png" group-title="Peliculas/Series",Sundance TV HD
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/SUNDANCE_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/syfy.png" group-title="Peliculas/Series",SyFy
+http://usuarios.club/usuarios/src1/SyFy/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tbs_veryfunny_latinoamerica-mediano.png" group-title="Peliculas/Series",TBS
 http://ragnaroktv.com/hls_live/kr/TBS_HD/MzI1MzQxsDAxMwAA/tbs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/PRMzz3O.png" group-title="Peliculas/Series",TBS HD
+http://usuarios.club/usuarios/src2/TBS_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tcm-mediano.png" group-title="Peliculas/Series",TCM (Opc.1)
 http://ragnaroktv.com/hls_live/kr/TCM/MzI1MzQxsDAxMwAA/tcm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tcm-mediano.png" group-title="Peliculas/Series",TCM (Opc.2)
@@ -169,11 +179,15 @@ http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/TCM/index.m3u8
 http://ragnaroktv.com/hls_live/kr/TNT_HD/MzI1MzQxsDAxMwAA/tnt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt-mediano.png" group-title="Peliculas/Series",TNT (Opc.2)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/J04/channel.php/live1/tntlatino/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNTHD " tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tnt_hd_latinoamerica-mediano.png" group-title="Peliculas/Series",TNT HD
+http://usuarios.club/usuarios/src2/TNT_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tnt_series-mediano.png" group-title="Peliculas/Series",TNT Series (Opc.1)
 http://ragnaroktv.com/hls_live/kr/TNT_SERIES_HD/MzI1MzQxsDAxMwAA/tnt_ser.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tnt_series-mediano.png" group-title="Peliculas/Series",TNT Series (Opc.2)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/TNT_SERIES_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-shift="" radio="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bbca60bf99_TNTSeriesHD.png.c09a3e9c56d42ab767270845916f9618.png" group-title="Peliculas/Series",TNT Series HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/AU1vros.png" group-title="Peliculas/Series",TNT Series HD (Opc.1)
+http://usuarios.club/usuarios/src2/TNT_SERIES_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/AU1vros.png" group-title="Peliculas/Series",TNT Series HD (Opc.2)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/TNT_SERIES_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/universal_channel-mediano.png" group-title="Peliculas/Series",Universal Channel
 http://ragnaroktv.com/hls_live/kr/UNIVERSAL_CHANNEL/MzI1MzQxsDAxMwAA/univers.m3u8
@@ -297,6 +311,8 @@ http://tvpremiumhd.club/lista-gratuita/tnt/s713.ts
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/J04/channel.php/live3/motogp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-shift="" radio="" tvg-logo="https://www.tntsportsla.com/public/statics/images/share_logo.jpg" group-title="Deportes",TNT Sports HD
 http://usuarios.club/usuarios/src5/TNTSports/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-shift="" radio="" tvg-logo="http://edant.ole.com.ar/diario/2009/02/02/polideportivo/fotos/1768837-1.jpg" group-title="Deportes",TyC Sports
+http://usuarios.club/usuarios/src5/TycSports/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-shift="" radio="" tvg-logo="http://edant.ole.com.ar/diario/2009/02/02/polideportivo/fotos/1768837-1.jpg" group-title="Deportes",TyC Sports HD (Opc.1)
 http://200.89.190.163/live/live/TyCSportHD/SA_Live/TyCSportHD-audio_AACL_spa_144800_50=144800-video=3900000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-shift="" radio="" tvg-logo="http://edant.ole.com.ar/diario/2009/02/02/polideportivo/fotos/1768837-1.jpg" group-title="Deportes",TyC Sports HD (Opc.2)
@@ -391,3 +407,5 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?www.tecnotv.in
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?www.tecnotv.info
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo_panregional-mediano.png" group-title="Internacionales",Telemundo
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC HD" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/OvOtJLA.png" group-title="USA",NBC HD
+

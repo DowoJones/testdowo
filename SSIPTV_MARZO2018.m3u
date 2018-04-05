@@ -367,7 +367,7 @@ http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/NICK_2_HD/index.m3u8
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/NICK_JR_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr. HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/nick_jr-mediano.png" group-title="Infantiles",Nick Jr. HD (Opc.2)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/NICK_JR_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Locomotion" tvg-shift="" radio="" tvg-logo=https://i.ytimg.com/vi/wkb4S0lKRfE/maxresdefault.jpg"" group-title="Infantiles",Locomotion
+#EXTINF:-1 tvg-id="" tvg-name="Locomotion" tvg-shift="" radio="" tvg-logo=http://locomotiontv.com/imgs/loco/logo_white.png"" group-title="Infantiles",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tooncast-mediano.png" group-title="Infantiles",Tooncast (Opc.1)
 http://ragnaroktv.com/hls_live/kr/TOONCAST/MzI1MzQxsDAxMwAA/tooncast.m3u8

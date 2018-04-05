@@ -3,7 +3,9 @@
 http://usuarios.club/usuarios/src5/El13Argentina/iptv/club.m3u8
 #EXTINF:-1 tvg-id="ar_amc" tvg-name="ar_amc" tvg-shift="" radio="" tvg-logo="https://www.claro.com.co/portal/recursos/co/gc/imagenes/1471901933899-Imagen.png" group-title="Peliculas/Series",AMC
 http://ragnaroktv.com/hls_live/kr/AMC_HD/MzI1MzQxsDAxMwAA/amc.m3u8
-#EXTINF:-1 tvg-id="ar_amc" tvg-name="ar_amc" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_hd_latinoamerica-mediano.png" group-title="Peliculas/Series",AMC HD
+#EXTINF:-1 tvg-id="ar_amc" tvg-name="ar_amc" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_hd_latinoamerica-mediano.png" group-title="Peliculas/Series",AMC HD (Opc.1)
+http://usuarios.club/usuarios/src2/AMC_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="ar_amc" tvg-name="ar_amc" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_hd_latinoamerica-mediano.png" group-title="Peliculas/Series",AMC HD (Opc.2)
 http://tvpremiumhd.club/lista-gratuita/tnt/s189.ts
 #EXTINF:-1 tvg-id="ar_axn" tvg-name="ar_axn" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="Peliculas/Series",AXN (Opc.1)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/AXN_HD/Stream(03)/index.m3u8
@@ -313,14 +315,16 @@ http://video7.stream.:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?ch
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/BABYTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang-mediano.png" group-title="Infantiles",Boomerang (Opc.1)
 http://ragnaroktv.com/hls_live/kr/BOOMERANG/MzI1MzQxsDAxMwAA/boomerang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang-mediano.png" group-title="Infantiles",Boomerang (Opc-2)
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang-mediano.png" group-title="Infantiles",Boomerang (Opc.2)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang-mediano.png" group-title="Infantiles",Boomerang HD
+http://usuarios.club/usuarios/src2/BOOMERANG/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantiles",Cartoon Network
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/CARTOON_NETWORK_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantiles",Cartoon Network HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/CARTOON_NETWORK_HD/Stream(04)/index.m3u8
+http://usuarios.club/usuarios/src2/CARTOON_NETWORK_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantiles",Cartoon Network HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/CARTOON_NETWORK_HD/index.m3u8
+http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/CARTOON_NETWORK_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-shift="" radio="" tvg-logo="https://mitvstatic.com/channels/co_discovery-kids-hd_m.png" group-title="Infantiles",Discovery Kids
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/DISCOVERY_KIDS_HD/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-shift="" radio="" tvg-logo="https://mitvstatic.com/channels/co_discovery-kids-hd_m.png" group-title="Infantiles",Discovery Kids HD
@@ -351,9 +355,11 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 http://ragnaroktv.com/hls_live/kr/TOONCAST/MzI1MzQxsDAxMwAA/tooncast.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-shift="" radio="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tooncast-mediano.png" group-title="Infantiles",Tooncast (Opc.2)
 http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/TOONCAST/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-shift="" radio="" tvg-logo="https://pm1.narvii.com/6438/7185543f9e4ed7ea886542e09963b993bfa83c8e_128.jpg" group-title="Infantiles",Chespirito 24/7
+http://usuarios.club/usuarios/src3/ChapulinColorado/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Simpsons 24/7" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Simpsons_FamilyPicture.png/220px-Simpsons_FamilyPicture.png" group-title="Infantiles",The Simpsons 24/7
 https://59583158c050f.streamlock.net:443/7186/7186/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons Capitulos" tvg-shift="" radio="" tvg-logo="https://ia.media-imdb.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Infantiles",The Simpsons Capitulos
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons Capitulos" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Simpsons_FamilyPicture.png/220px-Simpsons_FamilyPicture.png" group-title="Infantiles",The Simpsons Random
 http://tecnotv.xyz/simpson1.php
 #EXTINF:-1 tvg-id="" tvg-name="Futurama 24/7" tvg-shift="" radio="" tvg-logo="https://cache.wizardworld.com/files/wizard/_700xAUTO_fit_center-center_100/Futurama-featured.jpg" group-title="Infantiles",Futurama 24/7
 http://tecnotv.xyz/futurama1.php

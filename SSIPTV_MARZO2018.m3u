@@ -613,7 +613,7 @@ http://gratis.iptvcanales.com/hls/redirect.php/mapeos/CNN_ESPANOL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://imagenes.gatotv.com/logos/canales/cnn_internacional.png" group-title="Noticias",CNN
 http://gratis.iptvcanales.com/hls/redirect.php/mapeos/CNN_INTERNACIONAL/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD [España]" tvg-logo="https://imagenes.gatotv.com/logos/canales/amc_panregional-mediano.png" group-title="Internacionaless",AMC HD [España]
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD [España]" tvg-logo="https://imagenes.gatotv.com/logos/canales/amc_panregional-mediano.png" group-title="Internacionales",AMC HD [España]
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/614/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN [España]" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn_espana-mediano.png" group-title="Internacionales",AXN [España]
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/610/index.m3u8

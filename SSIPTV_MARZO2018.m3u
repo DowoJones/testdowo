@@ -629,7 +629,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar DCine" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/movistar_dcine-mediano.png" group-title="Internacionales",Movistar DCine
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
-EXTINF:-1 tvg-id="" tvg-name="Antena 3 [HD]" tvg-logo="https://imagenes.gatotv.com/logos/canales/antena_3-mediano.png" group-title="Internacionales",Antena 3 HD (Opc.1)
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 [HD]" tvg-logo="https://imagenes.gatotv.com/logos/canales/antena_3-mediano.png" group-title="Internacionales",Antena 3 HD (Opc.1)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/615/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena 3 [HD]" tvg-logo="https://imagenes.gatotv.com/logos/canales/antena_3-mediano.png" group-title="Internacionales",Antena 3 HD (Opc.2)
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?www.tecnotv.info?sd=10&amp;rebase=on

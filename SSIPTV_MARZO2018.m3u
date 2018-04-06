@@ -1,170 +1,153 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Argentina",El Trece
 http://usuarios.club/usuarios/src5/El13Argentina/iptv/club.m3u8
-#EXTINF:-1 tvg-id="ar_amc" tvg-name="ar_amc" tvg-logo="https://www.claro.com.co/portal/recursos/co/gc/imagenes/1471901933899-Imagen.png" group-title="Peliculas/Series",AMC
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://www.claro.com.co/portal/recursos/co/gc/imagenes/1471901933899-Imagen.png" group-title="Peliculas/Series",AMC
 http://ragnaroktv.com/hls_live/kr/AMC_HD/MzI1MzQxsDAxMwAA/amc.m3u8
-#EXTINF:-1 tvg-id="ar_amc" tvg-name="ar_amc" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_hd_latinoamerica-mediano.png" group-title="Peliculas/Series",AMC HD (Opc.1)
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_hd_latinoamerica-mediano.png" group-title="Peliculas/Series",AMC HD (Opc.1)
 http://usuarios.club/usuarios/src2/AMC_HD/iptv/club/hd.m3u8
-#EXTINF:-1 tvg-id="ar_amc" tvg-name="ar_amc" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_hd_latinoamerica-mediano.png" group-title="Peliculas/Series",AMC HD (Opc.2)
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_hd_latinoamerica-mediano.png" group-title="Peliculas/Series",AMC HD (Opc.2)
 http://tvpremiumhd.club/lista-gratuita/tnt/s189.ts
-#EXTINF:-1 tvg-id="ar_axn" tvg-name="ar_axn" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="Peliculas/Series",AXN (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/AXN_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="ar_axn" tvg-name="ar_axn" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="Peliculas/Series",AXN (Opc.2)
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="Peliculas/Series",AXN (Opc.1)
+http://usuarios.club/usuarios/src2/AXN_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="Peliculas/Series",AXN (Opc.2)
 http://ragnaroktv.com/hls_live/kr/AXN_HD/MzI1MzQxsDAxMwAA/axn.m3u8
-#EXTINF:-1 tvg-id="ar_axn" tvg-name="ar_axn" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn_hd-mediano.png" group-title="Peliculas/Series",AXN HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/AXN_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="ar_cinecanal" tvg-name="ar_cinecanal" tvg-logo="https://imagenes.gatotv.com/logos/canales/cinecanal-mediano.png" group-title="Peliculas/Series",Cinecanal (Opc.1)
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn_hd-mediano.png" group-title="Peliculas/Series",AXN HD
+http://usuarios.club/usuarios/src2/AXN_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://imagenes.gatotv.com/logos/canales/cinecanal-mediano.png" group-title="Peliculas/Series",Cinecanal (Opc.1)
 http://ragnaroktv.com/hls_live/kr/CINECANAL_HD/MzI1MzQxsDAxMwAA/cinecanal.m3u8
-#EXTINF:-1 tvg-id="ar_cinecanal" tvg-name="ar_cinecanal" tvg-logo="https://imagenes.gatotv.com/logos/canales/cinecanal-mediano.png" group-title="Peliculas/Series",Cinecanal (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/CINECANAL_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="ar_cinecanal" tvg-name="ar_cinecanal" tvg-logo="https://imagenes.gatotv.com/logos/canales/cinecanal_hd-mediano.png" group-title="Peliculas/Series",Cinecanal HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/CINECANAL_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="ar_cinemax" tvg-name="ar_cinemax" tvg-logo="https://1.bp.blogspot.com/-PVxCpf29fD8/VB3wi0YsUrI/AAAAAAAAoB8/Z7fsPeFP7hA/s1600/cinemax-2014.png" group-title="Peliculas/Series",Cinemax (Mexico)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/J04/channel.php/live1/cinemax/playlist.m3u8
-#EXTINF:-1 tvg-id="ar_cinemax" tvg-name="ar_cinemax" tvg-logo="https://1.bp.blogspot.com/-PVxCpf29fD8/VB3wi0YsUrI/AAAAAAAAoB8/Z7fsPeFP7hA/s1600/cinemax-2014.png" group-title="Peliculas/Series",Cinemax (Colombia)
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://imagenes.gatotv.com/logos/canales/cinecanal-mediano.png" group-title="Peliculas/Series",Cinecanal (Opc.2)
+http://usuarios.club/usuarios/src2/CINECANAL_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/cinecanal_hd-mediano.png" group-title="Peliculas/Series",Cinecanal HD
+http://usuarios.club/usuarios/src2/CINECANAL_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://1.bp.blogspot.com/-PVxCpf29fD8/VB3wi0YsUrI/AAAAAAAAoB8/Z7fsPeFP7hA/s1600/cinemax-2014.png" group-title="Peliculas/Series",Cinemax (Oeste Opc.1)
 http://ragnaroktv.com/hls_live/kr/CINEMAX/MzI1MzQxsDAxMwAA/c1nemax.m3u8
-#EXTINF:-1 tvg-id="ar_cinemax" tvg-name="ar_cinemax" tvg-logo="https://ia800603.us.archive.org/7/items/CinemaxHd/cinemax%20hd.png" group-title="Peliculas/Series",Cinemax HD
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://1.bp.blogspot.com/-PVxCpf29fD8/VB3wi0YsUrI/AAAAAAAAoB8/Z7fsPeFP7hA/s1600/cinemax-2014.png" group-title="Peliculas/Series",Cinemax (Oeste Opc.2)
+http://usuarios.club/usuarios/src2/CINEMAX/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://ia800603.us.archive.org/7/items/CinemaxHd/cinemax%20hd.png" group-title="Peliculas/Series",Cinemax HD (Este)
 http://reloadednow.com:2086/live/palamara/palamara/275.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox-mediano.png" group-title="Peliculas/Series",FOX
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox-mediano.png" group-title="Peliculas/Series",FOX (Opc.1)
 http://ragnaroktv.com/hls_live/kr/FOX_HD/MzI1MzQxsDAxMwAA/f0x.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox-mediano.png" group-title="Peliculas/Series",FOX (Opc.2)
+http://usuarios.club/usuarios/src2/FOX_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_hd-mediano.png" group-title="Peliculas/Series",FOX HD
 http://usuarios.club/usuarios/src2/FOX_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action_hd-mediano.png" group-title="Peliculas/Series",FOX Premium Action (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOXACTION_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action_hd-mediano.png" group-title="Peliculas/Series",FOX Premium Action (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_ACTION_MEXICO_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action_hd-mediano.png" group-title="Peliculas/Series",FOX Premium Action (Opc.3)
 http://ragnaroktv.com/hls_live/kr/FOX_ACTION_MEXICO_HD/MzI1MzQxsDAxMwAA/fox_action_mx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action_hd-mediano.png" group-title="Peliculas/Series",FOX Premium Action (Opc.4)
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action_hd-mediano.png" group-title="Peliculas/Series",FOX Premium Action (Opc.2)
 http://ragnaroktv.com/hls_live/kr/FOXACTION_HD/MzI1MzQxsDAxMwAA/foxaction.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action_hd-mediano.png" group-title="Peliculas/Series",FOX Premium Action (Opc.3))
+http://usuarios.club/usuarios/src2/FOXACTION_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1561.png.071535640ed34fa4826d5558d281000d.png" group-title="Peliculas/Series",FOX Premium Action HD (Opc.1)
 http://usuarios.club/usuarios/src2/FOXACTION_HD/iptv/club/hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Action HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1561.png.071535640ed34fa4826d5558d281000d.png" group-title="Peliculas/Series",FOX Premium Action HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_ACTION_MEXICO_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Cinéma" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_cinema-mediano.png" group-title="Peliculas/Series",FOX Premium Cinéma (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_CINEMA_HD_SUB/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Cinéma" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_cinema-mediano.png" group-title="Peliculas/Series",FOX Premium Cinéma (Opc.2)
-http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD/MzI1MzQxsDAxMwAA/f0x_cinema.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Cinéma" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_cinema-mediano.png" group-title="Peliculas/Series",FOX Premium Cinéma (Opc.3)
-http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD_SUB/MzI1MzQxsDAxMwAA/f0x_cinema_sub.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Cinéma [HD]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1562.png.d403a0581ddbd543e2f930ada659c984.png" group-title="Peliculas/Series",FOX Premium Cinéma [HD]
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_CINEMA_HD_SUB/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Classics" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_classics-mediano.png" group-title="Peliculas/Series",FOX Premium Classics
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_CLASSICS_HD/Stream(03)/index.m3u8
+http://usuarios.club/usuarios/src2/FOX_CLASSICS_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Classics HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.581258075f10c_FoxClassicsHD.png.282493f090b1e985a280f9cff4b6cf4b.png" group-title="Peliculas/Series",FOX Premium Classics HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_CLASSICS_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Classics HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.581258075f10c_FoxClassicsHD.png.282493f090b1e985a280f9cff4b6cf4b.png" group-title="Peliculas/Series",FOX Premium Classics HD (Opc.2)
 http://usuarios.club/usuarios/src2/FOX_CLASSICS_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Classics HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.581258075f10c_FoxClassicsHD.png.282493f090b1e985a280f9cff4b6cf4b.png" group-title="Peliculas/Series",FOX Premium Classics HD (Opc.2)
+http://ragnaroktv.com/hls_live/kr/FOX_CLASSICS_HD/MzI1MzQxsDAxMwAA/f0x_classics.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_comedy-mediano.png" group-title="Peliculas/Series",FOX Premium Comedy (Opc.1)
 http://ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/MzI1MzQxsDAxMwAA/f0x_comedy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_comedy-mediano.png" group-title="Peliculas/Series",FOX Premium Comedy (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_COMEDY_HD/Stream(03)/index.m3u8
+http://usuarios.club/usuarios/src2/FOX_COMEDY_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Comedy HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1557.png.9db978d5212d1e869171b7207529ab57.png" group-title="Peliculas/Series",FOX Premium Comedy HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_COMEDY_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Family [HD]" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_family_oeste-mediano.png" group-title="Peliculas/Series",FOX Premium Family
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOXFAMILY_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Family [HD]" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-family-hd.png" group-title="Peliculas/Series",FOX Premium Family [HD]
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOXFAMILY_HD/Stream(04)/index.m3u8
+http://usuarios.club/usuarios/src2/FOX_COMEDY_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Family" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_family_oeste-mediano.png" group-title="Peliculas/Series",FOX Premium Family
+http://ragnaroktv.com/hls_live/kr/FOXFAMILY_HD/MzI1MzQxsDAxMwAA/f0x_family.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Family" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_family_oeste-mediano.png" group-title="Peliculas/Series",FOX Premium Family
+http://usuarios.club/usuarios/src2/FOXFAMILY_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Family HD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-family-hd.png" group-title="Peliculas/Series",FOX Premium Family HD
+http://usuarios.club/usuarios/src2/FOXFAMILY_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Movies" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_movies_hd-mediano.png" group-title="Peliculas/Series",FOX Premium Movies (Opc.1)
 http://ragnaroktv.com/hls_live/kr/FOXMOVIES_HD/MzI1MzQxsDAxMwAA/f0x_movies.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Movies" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_movies_hd-mediano.png" group-title="Peliculas/Series",FOX Premium Movies (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOXMOVIES_HD/Stream(03)/index.m3u8
+http://usuarios.club/usuarios/src2/FOXMOVIES_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Movies HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1559.png.5e5bd9e6882c26e41e413379b0ad739c.png" group-title="Peliculas/Series",FOX Premium Movies HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOXMOVIES_HD/Stream(04)/index.m3u8
+http://usuarios.club/usuarios/src2/FOXMOVIES_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Series HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_series_oeste-mediano.png" group-title="Peliculas/Series",FOX Premium Series HD
 http://ragnaroktv.com/hls_live/kr/FOX1_HD/MzI1MzQxsDAxMwAA/f0x_series.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="Peliculas/Series",FX (Opc.1)
 http://ragnaroktv.com/hls_live/kr/FX_HD/MzI1MzQxsDAxMwAA/fx.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="Peliculas/Series",FX (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FX_HD/Stream(03)/index.m3u8
+http://usuarios.club/usuarios/src2/FX_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/fx_hd.png" group-title="Peliculas/Series",FX HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FX_HD/Stream(04)/index.m3u8
+http://usuarios.club/usuarios/src2/FX_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fxm_panregional-mediano.png" group-title="Peliculas/Series",FXM
 http://ragnaroktv.com/hls_live/kr/THE_FILM_ZONE_HD/MzI1MzQxsDAxMwAA/fxm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fxm_panregional-mediano.png" group-title="Peliculas/Series",FXM HD
 http://usuarios.club/usuarios/src2/THE_FILM_ZONE_HD/iptv/club/hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="Peliculas/Series",Golden Plus
-http://ragnaroktv.com/hls_live/kr/GOLDEN_HD/MzI1MzQxsDAxMwAA/golden.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golden Plus HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_hd.png" group-title="Peliculas/Series",Golden Plus HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/GOLDEN_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="Peliculas/Series",Golden Premiere
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/GOLDEN_PREMIER_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="Peliculas/Series",Golden Premiere HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/GOLDEN_PREMIER_HD/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo-mediano.png" group-title="Peliculas/Series",HBO (Opc.1)
 http://ragnaroktv.com/hls_live/kr/HBO_HD_SUB/MzI1MzQxsDAxMwAA/hbohd_sub.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo-mediano.png" group-title="Peliculas/Series",HBO (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/HBO_HD_SUB/Stream(03)/index.m3u8
+http://usuarios.club/usuarios/src2/HBO_HD_SUB/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_hd_latinoamerica-mediano.png" group-title="Peliculas/Series",HBO HD (Opc.1)
 http://reloadednow.com:2086/live/palamara/palamara/267.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_hd_latinoamerica-mediano.png" group-title="Peliculas/Series",HBO HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/HBO_HD_SUB/index.m3u8
+http://usuarios.club/usuarios/src2/HBO_HD_SUB/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2.png" group-title="Peliculas/Series",HBO 2 (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/HBO_2_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2.png" group-title="Peliculas/Series",HBO 2 (Opc.2)
 http://ragnaroktv.com/hls_live/kr/HBO_2_HD/MzI1MzQxsDAxMwAA/hb02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" group-title="Peliculas/Series",HBO 2 HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/HBO_2_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" group-title="Peliculas/Series",HBO 2 HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/HBO_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" group-title="Peliculas/Series",HBO 2 HD (Opc.3)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/HBO_2_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://i.pinimg.com/originals/60/c0/ac/60c0ac56b80bc79edf73a1d066012aec.jpg" group-title="Peliculas/Series",HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2.png" group-title="Peliculas/Series",HBO 2 (Opc.2)
+http://usuarios.club/usuarios/src2/HBO_2_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" group-title="Peliculas/Series",HBO 2 HD
+http://usuarios.club/usuarios/src2/HBO_2_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://i.pinimg.com/originals/60/c0/ac/60c0ac56b80bc79edf73a1d066012aec.jpg" group-title="Peliculas/Series",HBO Family (Opc.1)
 http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzI1MzQxsDAxMwAA/hb0fam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://i.pinimg.com/originals/60/c0/ac/60c0ac56b80bc79edf73a1d066012aec.jpg" group-title="Peliculas/Series",HBO Family (Opc.2)
+http://usuarios.club/usuarios/src2/HBO_FAMILY_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Peliculas/Series",HBO Plus (Opc.1)
 http://ragnaroktv.com/hls_live/kr/HBO_PLUS_HD/MzI1MzQxsDAxMwAA/hboplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Peliculas/Series",HBO Plus (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/HBO_PLUS_HD/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBOPlusHD.png" group-title="Peliculas/Series",HBO Plus (Opc.2)
+http://usuarios.club/usuarios/src2/HBO_PLUS_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBOPlusHD.png" group-title="Peliculas/Series",HBO Plus HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/HBO_PLUS_HD/Stream(04)/index.m3u8
+http://usuarios.club/usuarios/src2/HBO_PLUS_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature_latinoamerica-mediano.png" group-title="Peliculas/Series",HBO Signature (Opc.1)
 http://ragnaroktv.com/hls_live/kr/HBO_SIGNATURE_HD/MzI1MzQxsDAxMwAA/hbosign.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature_latinoamerica-mediano.png" group-title="Peliculas/Series",HBO Signature (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/HBO_SIGNATURE_HD/Stream(03)/index.m3u8
+http://usuarios.club/usuarios/src2/HBO_SIGNATURE_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Signature_HD.png" group-title="Peliculas/Series",HBO Signature HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/HBO_SIGNATURE_HD/Stream(04)/index.m3u8
+http://usuarios.club/usuarios/src2/HBO_SIGNATURE_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="I-Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="Peliculas/Series",I-Sat (Opc.1)
 http://ragnaroktv.com/hls_live/kr/ISAT/MzI1MzQxsDAxMwAA/isat.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="I-Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="Peliculas/Series",I-Sat (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/ISAT/index.m3u8
+http://usuarios.club/usuarios/src2/ISAT/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX Prime" tvg-logo="https://mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="Peliculas/Series",MAX Prime (Opc.1)
 http://ragnaroktv.com/hls_live/kr/MAX_PRIME_HD/MzI1MzQxsDAxMwAA/m4x_prime.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX Prime" tvg-logo="https://mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="Peliculas/Series",MAX Prime (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/MAX_PRIME_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX Prime [HD]" tvg-logo="https://lh3.googleusercontent.com/-xSlKZDRuwyQ/Wh8P9hfK_uI/AAAAAAAAPCg/_WVVBRWN8lsez-sIW2uQnZczTcXYDURUQCLcBGAs/h200/MAX_PRIME_HD.png" group-title="Peliculas/Series",MAX Prime [HD]
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/MAX_PRIME_HD/Stream(04)/index.m3u8
+http://usuarios.club/usuarios/src2/MAX_PRIME_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime [HD]" tvg-logo="https://lh3.googleusercontent.com/-xSlKZDRuwyQ/Wh8P9hfK_uI/AAAAAAAAPCg/_WVVBRWN8lsez-sIW2uQnZczTcXYDURUQCLcBGAs/h200/MAX_PRIME_HD.png" group-title="Peliculas/Series",MAX Prime HD
+http://usuarios.club/usuarios/src2/MAX_PRIME_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/max_up-mediano.png" group-title="Peliculas/Series",MAX UP (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/MAX_UP_HD/Stream(03)/index.m3u8
+http://usuarios.club/usuarios/src2/MAX_UP_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/max_up-mediano.png" group-title="Peliculas/Series",MAX UP (Opc.2)
 http://ragnaroktv.com/hls_live/kr/MAX_UP_HD/MzI1MzQxsDAxMwAA/m4xup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP [HD]" tvg-logo="http://images.mi.tv/channels/ar_max-up_m.png" group-title="Peliculas/Series",MAX UP [HD]
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/MAX_UP_HD/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP [HD]" tvg-logo="http://images.mi.tv/channels/ar_max-up_m.png" group-title="Peliculas/Series",MAX UP HD
+http://usuarios.club/usuarios/src2/MAX_UP_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/paramount_channel_latinoamerica-mediano.png" group-title="Peliculas/Series",Paramount Channel (Opc.1)
 http://ragnaroktv.com/hls_live/kr/PARAMOUNT_HD/MzI1MzQxsDAxMwAA/param.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/paramount_channel_latinoamerica-mediano.png" group-title="Peliculas/Series",Paramount Channel (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/PARAMOUNT_HD/Stream(03)/index.m3u8
+http://usuarios.club/usuarios/src2/PARAMOUNT_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD" tvg-logo="https://www.quotemaster.org/images/11/11e21ad935484417accd42c914de6ad6.png" group-title="Peliculas/Series",Paramount Channel HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/PARAMOUNT_HD/Stream(04)/index.m3u8
+http://usuarios.club/usuarios/src2/PARAMOUNT_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony-mediano.png" group-title="Peliculas/Series",Sony (Opc.1)
 http://ragnaroktv.com/hls_live/kr/SONY_HD/MzI1MzQxsDAxMwAA/sony.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony-mediano.png" group-title="Peliculas/Series",Sony (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/SONY_HD/Stream(03)/index.m3u8
+http://usuarios.club/usuarios/src2/SONY_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/sony_hd.png" group-title="Peliculas/Series",Sony HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/SONY_HD/Stream(04)/index.m3u8
+http://usuarios.club/usuarios/src2/SONY_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://imagenes.gatotv.com/logos/canales/space-mediano.png" group-title="Peliculas/Series",Space (Opc.1)
 http://ragnaroktv.com/hls_live/kr/SPACE_HD/MzI1MzQxsDAxMwAA/space.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://imagenes.gatotv.com/logos/canales/space-mediano.png" group-title="Peliculas/Series",Space (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/SPACE_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space_hd.png" group-title="Peliculas/Series",Space HD (Opc.1)
+http://usuarios.club/usuarios/src2/SPACE_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space_hd.png" group-title="Peliculas/Series",Space HD
 http://usuarios.club/usuarios/src2/SPACE_HD/iptv/club/hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space_hd.png" group-title="Peliculas/Series",Space HD (Ops.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/SPACE_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png" group-title="Peliculas/Series",Studio Universal
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png" group-title="Peliculas/Series",Studio Universal (Opc.1)
 http://ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/MzI1MzQxsDAxMwAA/stdio_univ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png" group-title="Peliculas/Series",Studio Universal (Opc.2)
+http://usuarios.club/usuarios/src2/STUDIO_UNIVERSAL/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://3.bp.blogspot.com/-Lx5TzxYQBdQ/V0oxqk3fTyI/AAAAAAAAA6U/pAUHySQyc0IZwGFUGSLTKJT0t-oEqCifQCLcB/s320/su-hd.png" group-title="Peliculas/Series",Studio Universal HD
+http://usuarios.club/usuarios/src2/STUDIO_UNIVERSAL/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sundance-mediano.png" group-title="Peliculas/Series",Sundance TV
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/SUNDANCE_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sundance TV HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58ef8ce1046f9_SundanceTVHD.png.fa6ea95c5674ad3a8f467e1ffd4b4935.png" group-title="Peliculas/Series",Sundance TV HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/SUNDANCE_HD/index.m3u8
+http://ragnaroktv.com/hls_live/kr/SUNDANCE_HD/MzI1MzQxsDAxMwAA/sundance.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="https://imagenes.gatotv.com/logos/canales/syfy.png" group-title="Peliculas/Series",SyFy
 http://usuarios.club/usuarios/src1/SyFy/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://imagenes.gatotv.com/logos/canales/tbs_veryfunny_latinoamerica-mediano.png" group-title="Peliculas/Series",TBS
@@ -174,29 +157,33 @@ http://usuarios.club/usuarios/src2/TBS_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://imagenes.gatotv.com/logos/canales/tcm-mediano.png" group-title="Peliculas/Series",TCM (Opc.1)
 http://ragnaroktv.com/hls_live/kr/TCM/MzI1MzQxsDAxMwAA/tcm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://imagenes.gatotv.com/logos/canales/tcm-mediano.png" group-title="Peliculas/Series",TCM (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/TCM/index.m3u8
+http://usuarios.club/usuarios/src2/TCM/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="https://2.bp.blogspot.com/-bkswdpgxFB0/VmDUeL-NFvI/AAAAAAAAANU/hodMmMqCy4U/s200/TCM.jpg" group-title="Peliculas/Series",TCM HD
+http://usuarios.club/usuarios/src2/TCM/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt-mediano.png" group-title="Peliculas/Series",TNT (Opc.1)
 http://ragnaroktv.com/hls_live/kr/TNT_HD/MzI1MzQxsDAxMwAA/tnt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt-mediano.png" group-title="Peliculas/Series",TNT (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/J04/channel.php/live1/tntlatino/playlist.m3u8
+http://usuarios.club/usuarios/src2/TNT_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNTHD " tvg-logo="https://imagenes.gatotv.com/logos/canales/tnt_hd_latinoamerica-mediano.png" group-title="Peliculas/Series",TNT HD
 http://usuarios.club/usuarios/src2/TNT_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/tnt_series-mediano.png" group-title="Peliculas/Series",TNT Series (Opc.1)
 http://ragnaroktv.com/hls_live/kr/TNT_SERIES_HD/MzI1MzQxsDAxMwAA/tnt_ser.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/tnt_series-mediano.png" group-title="Peliculas/Series",TNT Series (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/TNT_SERIES_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="https://i.imgur.com/AU1vros.png" group-title="Peliculas/Series",TNT Series HD (Opc.1)
+http://usuarios.club/usuarios/src2/TNT_SERIES_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="https://i.imgur.com/AU1vros.png" group-title="Peliculas/Series",TNT Series HD
 http://usuarios.club/usuarios/src2/TNT_SERIES_HD/iptv/club/hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="https://i.imgur.com/AU1vros.png" group-title="Peliculas/Series",TNT Series HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/TNT_SERIES_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/universal_channel-mediano.png" group-title="Peliculas/Series",Universal Channel
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/universal_channel-mediano.png" group-title="Peliculas/Series",Universal Channel (Opc.1)
 http://ragnaroktv.com/hls_live/kr/UNIVERSAL_CHANNEL/MzI1MzQxsDAxMwAA/univers.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/universal_channel-mediano.png" group-title="Peliculas/Series",Universal Channel (Opc.1)
+http://usuarios.club/usuarios/src2/UNIVERSAL_CHANNEL/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/universal_channel-mediano.png" group-title="Peliculas/Series",Universal Channel HD
+http://usuarios.club/usuarios/src2/UNIVERSAL_CHANNEL/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/warner_channel-mediano.png" group-title="Peliculas/Series",Warner Channel (Opc.1)
 http://ragnaroktv.com/hls_live/kr/WARNER_HD/MzI1MzQxsDAxMwAA/warner.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/warner_channel-mediano.png" group-title="Peliculas/Series",Warner Channel (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/WARNER_HD/Stream(03)/index.m3u8
+http://usuarios.club/usuarios/src2/WARNER_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/warner_hd-mediano.png" group-title="Peliculas/Series",Warner HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/WARNER_HD/Stream(04)/index.m3u8
+http://usuarios.club/usuarios/src2/WARNER_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD [España]" tvg-logo="https://imagenes.gatotv.com/logos/canales/amc_panregional-mediano.png" group-title="Peliculas/Series",AMC HD [España]
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/614/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN [España]" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn_espana-mediano.png" group-title="Peliculas/Series",AXN [España]
@@ -213,80 +200,110 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar DCine" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/movistar_dcine-mediano.png" group-title="Peliculas/Series",Movistar DCine
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://imagenes.gatotv.com/logos/canales/animal_planet-mediano.png" group-title="Entretenimiento",Animal Planet
 http://ragnaroktv.com/hls_live/kr/ANIMAL_PLANET_HD/MzI1MzQxsDAxMwAA/anim_planet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://imagenes.gatotv.com/logos/canales/a_y_e-mediano.png" group-title="Entretenimiento",A&E
 http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/MzI1MzQxsDAxMwAA/aehd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png" group-title="Entretenimiento",Comedy Central
 http://ragnaroktv.com/hls_live/kr/COMEDY_CENTRAL_HD/MzI1MzQxsDAxMwAA/cc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery-mediano.png" group-title="Entretenimiento",Discovery Channel
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/DISCOVERY_CHANNEL_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel_hd.png" group-title="Entretenimiento",Discovery Channel HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/DISCOVERY_CHANNEL_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel_hd.png" group-title="Entretenimiento",Discovery Channel HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/DISCOVERY_CHANNEL_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery-mediano.png" group-title="Entretenimiento",Discovery Channel (Opc.1)
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_CHANNEL_HD/MzI1MzQxsDAxMwAA/discovery_channel_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery-mediano.png" group-title="Entretenimiento",Discovery Channel (Opc.2)
+http://usuarios.club/usuarios/src2/DISCOVERY_CHANNEL_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel_hd.png" group-title="Entretenimiento",Discovery Channel HD
+http://usuarios.club/usuarios/src2/DISCOVERY_CHANNEL_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_civilization_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Civilization (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/DISCOVERY_CIVILIZATION/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_civilization_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Civilization (Opc.2)
 http://ragnaroktv.com/hls_live/kr/DISCOVERY_CIVILIZATION/MzI1MzQxsDAxMwAA/disc_civil.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_civilization_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Civilization (Opc.2)
+http://usuarios.club/usuarios/src2/DISCOVERY_CIVILIZATION/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_civilization_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Civilization HD
+http://usuarios.club/usuarios/src2/DISCOVERY_CIVILIZATION/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Science (Opc.1)
 http://ragnaroktv.com/hls_live/kr/DISCOVERY_SCIENCE/MzI1MzQxsDAxMwAA/disc_science.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Science (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/DISCOVERY_SCIENCE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://imagenes.gatotv.com/logos/canales/discovery_theater_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Theater
+http://usuarios.club/usuarios/src2/DISCOVERY_SCIENCE/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/3/32/Discovery_Science_HD.png/revision/latest?cb=20140513094535" group-title="Entretenimiento",Discovery Science HD
+http://usuarios.club/usuarios/src2/DISCOVERY_SCIENCE/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://imagenes.gatotv.com/logos/canales/discovery_theater_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Theater (Opc.1)
 http://ragnaroktv.com/hls_live/kr/DISCOVERY_THEATER_HD/MzI1MzQxsDAxMwAA/theater.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://imagenes.gatotv.com/logos/canales/discovery_theater_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Theater (Opc.2)
+http://usuarios.club/usuarios/src2/DISCOVERY_THEATER_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="Entretenimiento",Discovery Theater HD
 http://usuarios.club/usuarios/src2/DISCOVERY_THEATER_HD/iptv/club/hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Turbo (Opc.1)
 http://ragnaroktv.com/hls_live/kr/DISCOVERY_TURBO/MzI1MzQxsDAxMwAA/disc_turbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Turbo (Opc.2)
+http://usuarios.club/usuarios/src2/DISCOVERY_TURBO/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/9/90/Discovery_Turbo_HD.png/revision/latest?cb=20140513095732" group-title="Entretenimiento",Discovery Turbo HD
+http://usuarios.club/usuarios/src2/DISCOVERY_TURBO/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery World HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/DISCOVERY_WORLD_HD/index.m3u8
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_WORLD_HD/MzI1MzQxsDAxMwAA/world.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery World HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/DISCOVERY_WORLD_HD/Stream(04)/index.m3u8
+http://usuarios.club/usuarios/src2/DISCOVERY_WORLD_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://3.bp.blogspot.com/-lQOJl-97msk/Vl9o8W6zQ5I/AAAAAAAAALA/Q3kqNrdUja0/s1600/World_Discovery_HD_logo.svg.png" group-title="Entretenimiento",Discovery World HD HD
+http://usuarios.club/usuarios/src2/DISCOVERY_WORLD_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history-mediano.png" group-title="Entretenimiento",History (Opc.1)
 http://ragnaroktv.com/hls_live/kr/HISTORY_CHANNEL_HD/MzI1MzQxsDAxMwAA/history.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history-mediano.png" group-title="Entretenimiento",History (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/HISTORY_CHANNEL_HD/Stream(03)/index.m3u8
+http://usuarios.club/usuarios/src2/HISTORY_CHANNEL_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_hd-mediano.png" group-title="Entretenimiento",History HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/HISTORY_CHANNEL_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://imagenes.gatotv.com/logos/canales/h2-mediano.png" group-title="Entretenimiento",H2
+http://usuarios.club/usuarios/src2/HISTORY_CHANNEL_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://imagenes.gatotv.com/logos/canales/h2-mediano.png" group-title="Entretenimiento",H2 (Opc.1)
 http://ragnaroktv.com/hls_live/kr/H2/MzI1MzQxsDAxMwAA/h2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://imagenes.gatotv.com/logos/canales/h2-mediano.png" group-title="Entretenimiento",H2 (Opc.2)
+http://usuarios.club/usuarios/src2/H2/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://albawabacdn-albawabamiddleea.netdna-ssl.com/sites/default/files/imagecache/article_headline_node_big//sites/default/files/im/pr_new/OSN_H2_HD.JPG" group-title="Entretenimiento",H2 HD
+http://usuarios.club/usuarios/src2/H2/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery-mediano.png" group-title="Entretenimiento",Investigation Discovery (Opc.1)
 http://ragnaroktv.com/hls_live/kr/ID_HD/MzI1MzQxsDAxMwAA/idhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery-mediano.png" group-title="Entretenimiento",Investigation Discovery (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/ID_HD/Stream(03)/index.m3u8
+http://usuarios.club/usuarios/src2/ID_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery [HD]" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_hd_mexico-mediano.png" group-title="Entretenimiento",Investigation Discovery HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/ID_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/natgeo-mediano.png" group-title="Entretenimiento",NatGeo
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/NATGEO_HD/Stream(03)/index.m3u8
+http://usuarios.club/usuarios/src2/ID_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/natgeo-mediano.png" group-title="Entretenimiento",NatGeo (Opc.1)
+http://ragnaroktv.com/hls_live/kr/NATGEO_HD/MzI1MzQxsDAxMwAA/natgeo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/natgeo-mediano.png" group-title="Entretenimiento",NatGeo (Opc.2)
+http://usuarios.club/usuarios/src2/NATGEO_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretenimiento",NatGeo HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/NATGEO_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_hd.png" group-title="Deportes",ESPN HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/ESPN_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_hd.png" group-title="Deportes",ESPN HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/ESPN_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/espn_mas_latinoamerica-mediano.png" group-title="Deportes",ESPN+ HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/ESPN_PLUS_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/espn_mas_latinoamerica-mediano.png" group-title="Deportes",ESPN+ HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/ESPN_PLUS_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/espn_2-mediano.png" group-title="Deportes",ESPN 2 HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/ESPN_2_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/espn_2-mediano.png" group-title="Deportes",ESPN 2 HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/ESPN_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox_sports_hd-mediano.png" group-title="Deportes",FOX Sports HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_SPORTS_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox_sports_hd-mediano.png" group-title="Deportes",FOX Sports HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_SPORTS_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox_sports_hd-mediano.png" group-title="Deportes",FOX Sports HD (Opc.3)
-http://cdn.prepro.cvattv.com.ar/live/live/FoxSports/SA_Live/FoxSports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox_sports_2_hd-mediano.png" group-title="Deportes",FOX Sports 2 HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_SPORTS2_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox_sports_2_hd-mediano.png" group-title="Deportes",FOX Sports 2 HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_SPORTS2_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD" tvg-logo="https://i.imgur.com/JGMyPY6.png" group-title="Deportes",FOX Sports 3 HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_SPORTS3_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD" tvg-logo="https://i.imgur.com/JGMyPY6.png" group-title="Deportes",FOX Sports 3 HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/FOX_SPORTS3_HD/index.m3u8
+http://usuarios.club/usuarios/src2/NATGEO_HD/iptv/club/hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://2.bp.blogspot.com/-eDS0m60Jy6w/UT52A2BhHEI/AAAAAAAAZUU/kL059HvIzpE/s1600/ESPN.png" group-title="Deportes",ESPN (Opc.1)
+http://ragnaroktv.com/hls_live/kr/ESPN_HD/MzI1MzQxsDAxMwAA/espn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://2.bp.blogspot.com/-eDS0m60Jy6w/UT52A2BhHEI/AAAAAAAAZUU/kL059HvIzpE/s1600/ESPN.png" group-title="Deportes",ESPN (Opc.2)
+http://usuarios.club/usuarios/src2/ESPN_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_hd.png" group-title="Deportes",ESPN HD
+http://usuarios.club/usuarios/src2/ESPN_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+" tvg-logo="https://imagenes.gatotv.com/logos/canales/espn_mas_latinoamerica-mediano.png" group-title="Deportes",ESPN+ (Opc.1)
+http://ragnaroktv.com/hls_live/kr/ESPN_PLUS_HD/MzI1MzQxsDAxMwAA/espn_plus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+" tvg-logo="https://imagenes.gatotv.com/logos/canales/espn_mas_latinoamerica-mediano.png" group-title="Deportes",ESPN+ (Opc.2)
+http://usuarios.club/usuarios/src2/ESPN_PLUS_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/espn_mas_latinoamerica-mediano.png" group-title="Deportes",ESPN+ HD
+http://usuarios.club/usuarios/src2/ESPN_PLUS_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/espn_2-mediano.png" group-title="Deportes",ESPN 2 (Opc.1)
+http://ragnaroktv.com/hls_live/kr/ESPN_2_HD/MzI1MzQxsDAxMwAA/espn2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/espn_2-mediano.png" group-title="Deportes",ESPN 2 (Opc.2)
+http://usuarios.club/usuarios/src2/ESPN_2_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s320/espn2.png" group-title="Deportes",ESPN 2 HD
+http://usuarios.club/usuarios/src2/ESPN_2_HD/iptv/club/hd.m3u8	
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox_sports_hd-mediano.png" group-title="Deportes",FOX Sports Opc.1)
+http://ragnaroktv.com/hls_live/kr/FOX_SPORTS_HD/MzI1MzQxsDAxMwAA/foxsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox_sports_hd-mediano.png" group-title="Deportes",FOX Sports Opc.2)
+http://usuarios.club/usuarios/src2/FOX_SPORTS_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox_sports_hd-mediano.png" group-title="Deportes",FOX Sports HD
+http://usuarios.club/usuarios/src2/FOX_SPORTS_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox_sports_2_hd-mediano.png" group-title="Deportes",FOX Sports 2 (Opc.1)
+http://ragnaroktv.com/hls_live/kr/FOX_SPORTS2_HD/MzI1MzQxsDAxMwAA/foxsports2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox_sports_2_hd-mediano.png" group-title="Deportes",FOX Sports 2 (Opc.2)
+http://usuarios.club/usuarios/src2/FOX_SPORTS2_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/fox_sports_2_hd-mediano.png" group-title="Deportes",FOX Sports 2 HD
+http://usuarios.club/usuarios/src2/FOX_SPORTS2_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD" tvg-logo="https://i.imgur.com/JGMyPY6.png" group-title="Deportes",FOX Sports 3 (Opc.1)
+http://ragnaroktv.com/hls_live/kr/FOX_SPORTS3_HD/MzI1MzQxsDAxMwAA/foxsports3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD" tvg-logo="https://i.imgur.com/JGMyPY6.png" group-title="Deportes",FOX Sports 3 (Opc.2)
+http://usuarios.club/usuarios/src2/FOX_SPORTS3_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD" tvg-logo="https://i.imgur.com/JGMyPY6.png" group-title="Deportes",FOX Sports 3 HD
+http://usuarios.club/usuarios/src2/FOX_SPORTS3_HD/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports PREMIUM" tvg-logo="https://puu.sh/xTXkN/af837fadb2.png" group-title="Deportes",FOX Sports PREMIUM
 http://usuarios.club/usuarios/src5/FoxSportsPremium/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (HD) (Opc.1)
@@ -294,21 +311,17 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/inde
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (HD) (Opc.2)
 http://tvpremiumhd.club/lista-gratuita/tnt/s752.ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/J04/channel.php/live3/formula1/playlist.m3u8
+http://usuarios.club/usuarios/src5/F1TV/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (Opc.2)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (Opc.3)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="F1",Movistar F1 (Opc.4)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/J02/channel.php/192.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY Sports F1" tvg-logo="https://img.day.az/2016/06/17/skysports_f1.jpg" group-title="F1",SKY SPORTS F1
 http://reloadednow.com:2086/live/palamara/palamara/421.ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/2000px-Movistar_Moto_GP.svg.png" group-title="F1",Movistar MotoGP (HD) (Opc.1)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/2000px-Movistar_Moto_GP.svg.png" group-title="F1",Movistar MotoGP (HD) (Opc.2)
 http://tvpremiumhd.club/lista-gratuita/tnt/s713.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar MotoGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/2000px-Movistar_Moto_GP.svg.png" group-title="F1",Movistar MotoGP
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/J04/channel.php/live3/motogp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-logo="https://www.tntsportsla.com/public/statics/images/share_logo.jpg" group-title="Deportes",TNT Sports HD
 http://usuarios.club/usuarios/src5/TNTSports/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="http://edant.ole.com.ar/diario/2009/02/02/polideportivo/fotos/1768837-1.jpg" group-title="Deportes",TyC Sports
@@ -327,81 +340,72 @@ http://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_1600_ipad.m3u8
 http://tvpremiumhd.club/lista-gratuita/tnt/univisiond28.ts
 #EXTINF:-1 tvg-id="" tvg-name="Univision Deportes HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/udn_univision_deportes_network-mediano.png" group-title="Deportes",Univision Deportes HD (Opc.4)
 http://reloadednow.com:2086/live/palamara/palamara/232.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://imagenes.gatotv.com/logos/canales/animax.png" group-title="Infantiles",Animax
 http://video7.stream.:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/baby_tv.png" group-title="Infantiles",Baby TV
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/BABYTV/index.m3u8
+http://usuarios.club/usuarios/src5/BabyTV/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang-mediano.png" group-title="Infantiles",Boomerang (Opc.1)
 http://ragnaroktv.com/hls_live/kr/BOOMERANG/MzI1MzQxsDAxMwAA/boomerang.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang-mediano.png" group-title="Infantiles",Boomerang (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/BOOMERANG/index.m3u8
+http://usuarios.club/usuarios/src2/BOOMERANG/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang-mediano.png" group-title="Infantiles",Boomerang HD
 http://usuarios.club/usuarios/src2/BOOMERANG/iptv/club/hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantiles",Cartoon Network
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/CARTOON_NETWORK_HD/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantiles",Cartoon Network HD (Opc.1)
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantiles",Cartoon Network (Opc.1)
+http://ragnaroktv.com/hls_live/kr/CARTOON_NETWORK_HD/MzI1MzQxsDAxMwAA/cart_net.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantiles",Cartoon Network (Opc.2)
+http://usuarios.club/usuarios/src2/CARTOON_NETWORK_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantiles",Cartoon Network HD
 http://usuarios.club/usuarios/src2/CARTOON_NETWORK_HD/iptv/club/hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantiles",Cartoon Network HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/CARTOON_NETWORK_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://mitvstatic.com/channels/co_discovery-kids-hd_m.png" group-title="Infantiles",Discovery Kids
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/DISCOVERY_KIDS_HD/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://mitvstatic.com/channels/co_discovery-kids-hd_m.png" group-title="Infantiles",Discovery Kids (Opc.1)
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_KIDS_HD/MzI1MzQxsDAxMwAA/disc_kids.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://mitvstatic.com/channels/co_discovery-kids-hd_m.png" group-title="Infantiles",Discovery Kids (Opc.2)
+http://usuarios.club/usuarios/src2/DISCOVERY_KIDS_HD/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://mitvstatic.com/channels/co_discovery-kids-hd_m.png" group-title="Infantiles",Discovery Kids HD
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/DISCOVERY_KIDS_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/disney_hd-mediano.png" group-title="Infantiles",Disney Channel HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/DISNEY_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/disney_hd-mediano.png" group-title="Infantiles",Disney Channel HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/DISNEY_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png" group-title="Infantiles",Disney Junior
+http://usuarios.club/usuarios/src2/DISCOVERY_KIDS_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/disney-mediano.png" group-title="Infantiles",Disney Channel (Opc.1)
+http://ragnaroktv.com/hls_live/kr/DISNEY_HD/MzI1MzQxsDAxMwAA/d1sney.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/disney-mediano.png" group-title="Infantiles",Disney Channel (Opc.2)
+http://usuarios.club/usuarios/src2/DISNEY_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/disney_hd-mediano.png" group-title="Infantiles",Disney Channel HD
+http://usuarios.club/usuarios/src2/DISNEY_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png" group-title="Infantiles",Disney Junior (Opc.1)
 http://ragnaroktv.com/hls_live/kr/DISNEY_JR/MzI1MzQxsDAxMwAA/d1sneyjr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://imagenes.gatotv.com/logos/canales/disney_xd-mediano.png" group-title="Infantiles",Disney XD
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png" group-title="Infantiles",Disney Junior (Opc.2)
+http://usuarios.club/usuarios/src2/DISNEY_JR/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/aa/Disney_Junior_HD.png/revision/latest?cb=20140513152421" group-title="Infantiles",Disney Junior HD
+http://usuarios.club/usuarios/src2/DISNEY_JR/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://imagenes.gatotv.com/logos/canales/disney_xd-mediano.png" group-title="Infantiles",Disney XD (Opc.1)
 http://ragnaroktv.com/hls_live/kr/DISNEY_XD/MzI1MzQxsDAxMwAA/d1sneyxd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon_hd_latinoamerica-mediano.png" group-title="Infantiles",Nickelodeon HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/NICKELODEON_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon_hd_latinoamerica-mediano.png" group-title="Infantiles",Nickelodeon HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/NICKELODEON_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick 2 HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.579fecb5c4095_nick2.png.74fc797bb200eae0c52e68437ac19912.png" group-title="Infantiles",Nick 2 HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/NICK_2_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick 2 HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.579fecb5c4095_nick2.png.74fc797bb200eae0c52e68437ac19912.png" group-title="Infantiles",Nick 2 HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/NICK_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/nick_jr-mediano.png" group-title="Infantiles",Nick Jr. HD (Opc.1)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/NICK_JR_HD/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/nick_jr-mediano.png" group-title="Infantiles",Nick Jr. HD (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/NICK_JR_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://imagenes.gatotv.com/logos/canales/disney_xd-mediano.png" group-title="Infantiles",Disney XD (Opc.2)
+http://usuarios.club/usuarios/src2/DISNEY_XD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://imagenes.gatotv.com/logos/canales/disney_xd-mediano.png" group-title="Infantiles",Disney XD HD
+http://usuarios.club/usuarios/src2/DISNEY_XD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/nickelodeon-mediano.png" group-title="Infantiles",Nickelodeon (Opc.1)
+http://ragnaroktv.com/hls_live/kr/NICKELODEON_HD/MzI1MzQxsDAxMwAA/nick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/nickelodeon-mediano.png" group-title="Infantiles",Nickelodeon (Opc.2)
+http://usuarios.club/usuarios/src2/NICKELODEON_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon_hd_latinoamerica-mediano.png" group-title="Infantiles",Nickelodeon HD
+http://usuarios.club/usuarios/src2/NICKELODEON_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/7/78/Nick_2.png/revision/latest?cb=20161211190940&path-prefix=es" group-title="Infantiles",Nick 2 (Opc.1)
+http://ragnaroktv.com/hls_live/kr/NICK_2_HD/MzI1MzQxsDAxMwAA/nick2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 HD" tvg-logo=https://vignette.wikia.nocookie.net/doblaje/images/7/78/Nick_2.png/revision/latest?cb=20161211190940&path-prefix=es"" group-title="Infantiles",Nick 2 (Opc.2)
+http://usuarios.club/usuarios/src2/NICK_2_HD/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.579fecb5c4095_nick2.png.74fc797bb200eae0c52e68437ac19912.png" group-title="Infantiles",Nick 2 HD
+http://usuarios.club/usuarios/src2/NICK_2_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/nick_jr-mediano.png" group-title="Infantiles",Nick Jr.
+http://usuarios.club/usuarios/src1/NickJR/iptv/club.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Locomotion" tvg-logo=http://locomotiontv.com/imgs/loco/logo_white.png"" group-title="Infantiles",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://imagenes.gatotv.com/logos/canales/tooncast-mediano.png" group-title="Infantiles",Tooncast (Opc.1)
 http://ragnaroktv.com/hls_live/kr/TOONCAST/MzI1MzQxsDAxMwAA/tooncast.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://imagenes.gatotv.com/logos/canales/tooncast-mediano.png" group-title="Infantiles",Tooncast (Opc.2)
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/TOONCAST/index.m3u8
+http://usuarios.club/usuarios/src2/TOONCAST/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://imagenes.gatotv.com/logos/canales/tooncast-mediano.png" group-title="Infantiles",Tooncast
+http://usuarios.club/usuarios/src2/TOONCAST/iptv/club/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Simpsons 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Simpsons_FamilyPicture.png/220px-Simpsons_FamilyPicture.png" group-title="Infantiles",The Simpsons 24/7
 https://59583158c050f.streamlock.net:443/7186/7186/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Simpsons Capitulos" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Simpsons_FamilyPicture.png/220px-Simpsons_FamilyPicture.png" group-title="Infantiles",The Simpsons Random
 http://tecnotv.xyz/simpson1.php
 #EXTINF:-1 tvg-id="" tvg-name="Futurama 24/7" tvg-logo="https://cache.wizardworld.com/files/wizard/_700xAUTO_fit_center-center_100/Futurama-featured.jpg" group-title="Infantiles",Futurama 24/7
 http://tecnotv.xyz/futurama1.php
-#EXTINF:-1 tvg-id="" tvg-name="CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/cnn_en_espanol-mediano.png" group-title="Noticias",CNN en Español
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/CNN_ESPANOL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://pbs.twimg.com/profile_images/973622001708552193/iMJ7wjf6_400x400.jpg" group-title="Noticias",Canal 26
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://imagenes.gatotv.com/logos/canales/cnn_internacional.png" group-title="Noticias",CNN
-http://gratis.iptvcanales.com/hls/redirect.php/esfalerita/CNN_INTERNACIONAL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3 [HD]" tvg-logo="https://imagenes.gatotv.com/logos/canales/antena_3-mediano.png" group-title="Internacionales",Antena 3 HD (Opc.1)
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/615/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3 [HD]" tvg-logo="https://imagenes.gatotv.com/logos/canales/antena_3-mediano.png" group-title="Internacionales",Antena 3 HD (Opc.2)
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?www.tecnotv.info?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="https://imagenes.gatotv.com/logos/canales/antena_3-mediano.png" group-title="Internacionales",Antena 3
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?www.tecnotv.info?time=1439881142212
-#EXTINF:-1 tvg-id="" tvg-name="Cuatro HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/cuatro_de_espana-mediano.png" group-title="Internacionales",Cuatro HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/616/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecinco HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/telecinco-mediano.png" group-title="Internacionales",Telecinco HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/617/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Sexta HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_sexta-mediano.png" group-title="Internacionales",La Sexta HD (Opc.1)
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/618/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Sexta HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_sexta-mediano.png" group-title="Internacionales",La Sexta HD (Opc.2)
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="La Sexta" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_sexta-mediano.png" group-title="Internacionales",La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?www.tecnotv.info
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo_panregional-mediano.png" group-title="Internacionales",Telemundo
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC HD" tvg-logo="https://i.imgur.com/OvOtJLA.png" group-title="USA",NBC HD
-
